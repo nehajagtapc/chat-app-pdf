@@ -3,6 +3,9 @@
 Chat-App-PDF is an AI-driven web application that allows users to upload PDF documents and interact with them through a smart chat interface.
 Once a PDF is uploaded, the system extracts its content and processes it using Gemini 2.5 Pro along with other supported Gemini models, enabling intelligent, context-aware responses, summaries, and document insights.
 
+<img width="1908" height="955" alt="o1" src="https://github.com/user-attachments/assets/13f14840-97fa-49f2-ba9b-be9cb84b9e37" />
+<img width="1913" height="952" alt="o2" src="https://github.com/user-attachments/assets/5b54ca36-f755-4acf-bf9c-090116916b06" />
+
 
 # Tech Stack:
 ## Frontend
@@ -90,7 +93,7 @@ Frontend runs on:
 ```
 
 ## Architecture Flow:
-<img width="1158" height="583" alt="image" src="https://github.com/user-attachments/assets/19091f24-9533-42f4-9848-ba627207801e" />
+<img width="1158" height="583" alt="workflow_arch" src="https://github.com/user-attachments/assets/5d3ac322-1197-4f43-ae2e-371bbe8afe27" />
 
 
 ## Project Folder Structure

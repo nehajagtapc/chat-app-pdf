@@ -95,6 +95,8 @@ Frontend runs on:
 ## Architecture Flow:
 <img width="1158" height="583" alt="workflow_arch" src="https://github.com/user-attachments/assets/5d3ac322-1197-4f43-ae2e-371bbe8afe27" />
 
+## Mongodb Database: 
+<img width="1896" height="952" alt="mongdb_database" src="https://github.com/user-attachments/assets/b02dfccb-fc5f-407b-ae9f-6a877c550926" />
 
 ## Project Folder Structure
 ```

@@ -20315,6 +20315,936 @@
       "page": 1,
       "text": "(cid:0)B(cid:0)o(cid:0)t(cid:0):(cid:0) Ø=ÜÄ(cid:0) (cid:0)P(cid:0)D(cid:0)F(cid:0):(cid:0) (cid:0)R(cid:0)e(cid:0)s(cid:0)u(cid:0)m(cid:0)e(cid:0)_(cid:0)N(cid:0)e(cid:0)h(cid:0)a(cid:0)J(cid:0)a(cid:0)g(cid:0)t(cid:0)a(cid:0)p(cid:0) (cid:0)((cid:0)1(cid:0)7(cid:0))(cid:0).(cid:0)p(cid:0)d(cid:0)f(cid:0) (cid:0)('(cid:20)(cid:0))\nPages: 2\nUploaded successfully.",
       "chunk_id": 3385
+    },
+    {
+      "doc_id": "1eb798c5-8894-48e1-a958-9592376bb1d5",
+      "page": 1,
+      "text": "123 Your Street\nYour Name\nYour City, ST 12345\n(123) 456-7890\nno_reply@example.com\nLorem ipsum dolor sit amet, consectetuer adipiscing elit\nEXPERIENCE SKILLS\nCompany,Location —Job Title Lorem ipsum dolor sit amet.\nMONTH 20XX - PRESENT Consectetuer adipiscing elit.\nLorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam\nSed diam nonummy nibh\nnonummy nibh.\neuismod tincidunt.\nL aoreet dolore magna\nCompany,Location —Job Title\naliquam erat volutpat.\nMONTH 20XX - MONTH 20XX\nLorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam\nnonummy nibh.\nAWARDS\nCompany,Location—Job Title\nLorem ipsumdolor sitamet\nMONTH 20XX - MONTH 20XX Consectetuer adipiscing elit,\nLorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam Sed diam nonummy\nnonummy nibh.\nNibh euismod tinciduntut\nlaoreet dolore magna aliquam\nerat volutpat.\nEDUCATION\nLorem ipsum dolor sitamet\nConsectetuer adipiscing elit,\nSchool Name,Location —Degree\nSed diam nonummy\nMONTH 20XX - MONTH 20XX\nLorem ipsum dolor si",
+      "chunk_id": 3386
+    },
+    {
+      "doc_id": "1eb798c5-8894-48e1-a958-9592376bb1d5",
+      "page": 1,
+      "text": "laoreet dolore magna aliquam\nerat volutpat.\nEDUCATION\nLorem ipsum dolor sitamet\nConsectetuer adipiscing elit,\nSchool Name,Location —Degree\nSed diam nonummy\nMONTH 20XX - MONTH 20XX\nLorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam Nibh euismod tinciduntut\nnonummy nibh euismod tincidunt ut laoreet dolore. laoreet dolore magna aliquam\nerat volutpat.\nSchool Name,Location —Degree\nMONTH 20XX - MONTH 20XX\nLANGUAGES\nLorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam.\nLorem ipsum, Dolor sit amet,\nConsectetuer\nPROJECTS\nProject Name—Detail\nLorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+      "chunk_id": 3387
+    },
+    {
+      "doc_id": "140a31c7-de27-40e7-8804-f470ad4e70ea",
+      "page": 1,
+      "text": "Multi-Page\nReport\n“A comprehensive and content-heavy report that\nincludes text, images, and tables for thorough\ntesting of pagination and complex layouts.”\nPrepared By\nSample Team\nsample-files.com",
+      "chunk_id": 3388
+    },
+    {
+      "doc_id": "140a31c7-de27-40e7-8804-f470ad4e70ea",
+      "page": 2,
+      "text": "Table of Contents\n1. Introduction\n2. Market Analysis\n3. Data Analysis\n4. Product Overview\n5. Results & Discussion\n6. Marketing Strategy\n7. Sales Projections\n8. Launch Timeline\nThis sample PDF file is provided by Sample-Files.com. Visit us for more sample files and resource.",
+      "chunk_id": 3389
+    },
+    {
+      "doc_id": "140a31c7-de27-40e7-8804-f470ad4e70ea",
+      "page": 3,
+      "text": "Introduction\nThis section introduces the report and highlights the\nkey objectives. The purpose of this report is to analyze\ndata, evaluate outcomes, and provide insights for\nfuture decisions. This analysis is based on various data\nsources that include quantitative and qualitative\ninputs. Note: Add an image here illustrating the\nconcept of data analysis or research methodology.\nID Metric Value Remarks\n1 Metric 1 70 Valid Data\n2 Metric 2 431 Valid Data\n3 Metric 3 186 Valid Data\n4 Metric 4 489 Valid Data\n5 Metric 5 180 Valid Data\nThis sample PDF file is provided by Sample-Files.com. Visit us for more sample files and resource.",
+      "chunk_id": 3390
+    },
+    {
+      "doc_id": "140a31c7-de27-40e7-8804-f470ad4e70ea",
+      "page": 4,
+      "text": "Market Analysis\nNam quis porta ex. Donec porttitor at sem nec\nsollicitudin. Ut vel commodo tortor, sagittis egestas\nnisl. Donec quam mauris, tristique non tempus vitae,\nornare sed mauris. Etiam blandit tempor metus, at\nvehicula nisi. Maecenas suscipit vulputate varius.\nCurrent market share Projected sales for the\nfirst three years\nThis sample PDF file is provided by Sample-Files.com. Visit us for more sample files and resource.",
+      "chunk_id": 3391
+    },
+    {
+      "doc_id": "140a31c7-de27-40e7-8804-f470ad4e70ea",
+      "page": 5,
+      "text": "Data Analysis\nThis section analyzes data collected from various\nsources. The data is presented in a structured format\nto identify trends, patterns, and anomalies. Statistical\nmethods are used to derive meaningful insights. Note:\nAdd a chart or a graph here depicting the data trends\nvisually.\nThis sample PDF file is provided by Sample-Files.com. Visit us for more sample files and resource.",
+      "chunk_id": 3392
+    },
+    {
+      "doc_id": "140a31c7-de27-40e7-8804-f470ad4e70ea",
+      "page": 6,
+      "text": "Product Overview\nNam quis porta ex. Donec porttitor at sem nec\nsollicitudin. Ut vel commodo tortor, sagittis egestas\nnisl. Donec quam mauris, tristique non tempus vitae,\nornare sed mauris. Etiam blandit tempor metus, at\nvehicula nisi. Maecenas suscipit vulputate varius.\nKey Features\nInteger et justo velus.\nUt in ipsum ac risus.\nMaecenas iaculis.\nUt nec mauris vel.\nTellus accumsan.\nKey Features\nInteger et justo velus.\nUt in ipsum ac risus.\nMaecenas iaculis.\nUt nec mauris vel.\nTellus accumsan.\nThis sample PDF file is provided by Sample-Files.com. Visit us for more sample files and resource.",
+      "chunk_id": 3393
+    },
+    {
+      "doc_id": "140a31c7-de27-40e7-8804-f470ad4e70ea",
+      "page": 7,
+      "text": "Results & Discussion\nThe results and findings are discussed in this section.\nThe data presented previously is analyzed and\ncontextualized to understand the implications. This\nsection highlights key trends, potential causes, and\nimplications for future strategies. Note: Add a\ncomparative analysis image or table illustrating\ndifferent scenarios.\nThis sample PDF file is provided by Sample-Files.com. Visit us for more sample files and resource.",
+      "chunk_id": 3394
+    },
+    {
+      "doc_id": "140a31c7-de27-40e7-8804-f470ad4e70ea",
+      "page": 8,
+      "text": "Marketing Strategy\nTristique non tempus vitae, ornare sed mauris. Etiam\nblandit tempor metus, at vehicula nisi. Maecenas\nsuscipit vulputate varius.\n1st Strategy\nInteger et justo velus.\nUt in ipsum ac risus.\nMaecenas iaculis.\nUt nec mauris vel.\nTellus accumsan.\n2nd Strategy\nInteger et justo velus.\nUt in ipsum ac risus.\nMaecenas iaculis.\nUt nec mauris vel.\nTellus accumsan.\nThis sample PDF file is provided by Sample-Files.com. Visit us for more sample files and resource.",
+      "chunk_id": 3395
+    },
+    {
+      "doc_id": "140a31c7-de27-40e7-8804-f470ad4e70ea",
+      "page": 9,
+      "text": "Sales Projections\nTristique non tempus vitae, ornare sed mauris. Etiam\nblandit tempor metus, at vehicula nisi. Maecenas\nsuscipit vulputate varius.\nSeries 1 Series 2\n20\n15\n10\n5\n0\nItem 1 Item 2 Item 3\nMetric Sales\nMarket Size $50 Billion\nUser Satisfaction 85%\nGrowth Rate 10%\nThis sample PDF file is provided by Sample-Files.com. Visit us for more sample files and resource.",
+      "chunk_id": 3396
+    },
+    {
+      "doc_id": "140a31c7-de27-40e7-8804-f470ad4e70ea",
+      "page": 10,
+      "text": "Launch Timeline\nVivamus ac nunc vitae nulla molestie sodales. Proin sit\namet rhoncus lacus. Cras non erat imperdiet sapien\nporttitor aliquam nec ut velit.\nThis sample PDF file is provided by Sample-Files.com. Visit us for more sample files and resource.",
+      "chunk_id": 3397
+    },
+    {
+      "doc_id": "b99c4bae-4d3d-4ca6-8be4-5abbd1c7c23a",
+      "page": 1,
+      "text": "DAIRY SUPPLY\nALBERTRON PRODUCT COUNTER\nStronger focus on crate &\nSKU counting, vehicle tracking, and automation benefits for\nthe milk factory",
+      "chunk_id": 3398
+    },
+    {
+      "doc_id": "b99c4bae-4d3d-4ca6-8be4-5abbd1c7c23a",
+      "page": 2,
+      "text": "ABOUT OUR\nCOMPANY\nRevolutionizing Crate &\nSKU Counting for the\nDairy Industry\nAccurate\nAutomated\nScalable",
+      "chunk_id": 3399
+    },
+    {
+      "doc_id": "b99c4bae-4d3d-4ca6-8be4-5abbd1c7c23a",
+      "page": 3,
+      "text": "PROBLEM\nManual crate &\n1\nSKU counting STATEMENT\nInefficient vehicle\n2\nChallenges in Dairy Product\ntracking\nLogistics\nProne to errors, slow process\nTime-consuming\n3\nMiscounts lead to supply chain losses\nloading/unloading\nDelays in distribution\nExisting systems struggle with high\nvolumes\nLimited scalability\n4",
+      "chunk_id": 3400
+    },
+    {
+      "doc_id": "b99c4bae-4d3d-4ca6-8be4-5abbd1c7c23a",
+      "page": 4,
+      "text": "OUR\nSOLUTION\nAI-powered real-time counting : 99%\naccuracy in crate & SKU detection\nAutomated vehicle monitoring :\nIntegrates number plate recognition\nMulti-camera support : Tracks\nloading/unloading across multiple\ndocks\nSeamless ERP/WMS integration :\nAutomated report generation",
+      "chunk_id": 3401
+    },
+    {
+      "doc_id": "b99c4bae-4d3d-4ca6-8be4-5abbd1c7c23a",
+      "page": 5,
+      "text": "HOW\nITS WORK\nDetects crates, SKUs, and\nAI-based visual tracking 1\nmovements in real-time\nVehicle number plate recognition 2\nLinks shipments to delivery\nrecords\nReal-time dashboard 3\nLive updates on loading\nprogress\nAutomated reports\nAccurate SKU & crate counts\n4\nper shipment",
+      "chunk_id": 3402
+    },
+    {
+      "doc_id": "b99c4bae-4d3d-4ca6-8be4-5abbd1c7c23a",
+      "page": 6,
+      "text": "KEY BENEFITS\nFOR THE MILK FACTORY\n100% Traceability : Every\nBoost Efficiency :\nSKU is accounted for,\nReduce counting time\nimproving compliancece\nby X%\ncounting time by X%\nCut Costs : Minimize Scalable & Future-Ready :\nlabor costs & errors, Adapts to increasing\nsaving $X/year production volumes",
+      "chunk_id": 3403
+    },
+    {
+      "doc_id": "b99c4bae-4d3d-4ca6-8be4-5abbd1c7c23a",
+      "page": 7,
+      "text": "COMPETITIVE EDGE -\nWHY CHOOSE ALBERTRON?\nFeature Albertron Barcode Counting RFID\n✅ ❌\nAccuracy 99%+ Human-dependent ⚠ Possible tag failures\n✅ ❌\nCrate & SKU Detection AI-based Requires scanning ⚠ Limited to tagged items\n✅ ❌ ✅\nMulti-Camera Support Yes No Yes\n✅\nYes\n❌\nWorks in Harsh Conditions (dirty/damaged No ⚠ Tag readability issues\ncrates)\n✅ ❌ ❌\nVehicle Tracking Yes No No",
+      "chunk_id": 3404
+    },
+    {
+      "doc_id": "b99c4bae-4d3d-4ca6-8be4-5abbd1c7c23a",
+      "page": 8,
+      "text": "LIVE DEMO\n&\nPILOT PROPOSAL\nLIVE IN-FACTORY DEMO PILOT DEPLOYMENT OFFER SEAMLESS INTEGRATION PLAN\n1-month trial with\nExperience real-time Step-by-step\nKPI-based success\ncounting accuracy implementation with zero\nmetrics\ndowntime",
+      "chunk_id": 3405
+    },
+    {
+      "doc_id": "b99c4bae-4d3d-4ca6-8be4-5abbd1c7c23a",
+      "page": 9,
+      "text": "CALLTO ACTION –\nNEXT STEPS\nSCHEDULE A DEMO Pick a date for an on-site trial\nDEPLOY A PILOT Start testing in a real factory environment\nFULL-SCALE\nSeamless transition to automated counting\nIMPLEMENTATION",
+      "chunk_id": 3406
+    },
+    {
+      "doc_id": "b99c4bae-4d3d-4ca6-8be4-5abbd1c7c23a",
+      "page": 10,
+      "text": "THANK YOU",
+      "chunk_id": 3407
+    },
+    {
+      "doc_id": "f91a3124-b9f0-49f4-9446-27fc1095549a",
+      "page": 1,
+      "text": "DAIRY SUPPLY\nALBERTRON PRODUCT COUNTER\nStronger focus on crate &\nSKU counting, vehicle tracking, and automation benefits for\nthe milk factory",
+      "chunk_id": 3408
+    },
+    {
+      "doc_id": "f91a3124-b9f0-49f4-9446-27fc1095549a",
+      "page": 2,
+      "text": "ABOUT OUR\nCOMPANY\nRevolutionizing Crate &\nSKU Counting for the\nDairy Industry\nAccurate\nAutomated\nScalable",
+      "chunk_id": 3409
+    },
+    {
+      "doc_id": "f91a3124-b9f0-49f4-9446-27fc1095549a",
+      "page": 3,
+      "text": "PROBLEM\nManual crate &\n1\nSKU counting STATEMENT\nInefficient vehicle\n2\nChallenges in Dairy Product\ntracking\nLogistics\nProne to errors, slow process\nTime-consuming\n3\nMiscounts lead to supply chain losses\nloading/unloading\nDelays in distribution\nExisting systems struggle with high\nvolumes\nLimited scalability\n4",
+      "chunk_id": 3410
+    },
+    {
+      "doc_id": "f91a3124-b9f0-49f4-9446-27fc1095549a",
+      "page": 4,
+      "text": "OUR\nSOLUTION\nAI-powered real-time counting : 99%\naccuracy in crate & SKU detection\nAutomated vehicle monitoring :\nIntegrates number plate recognition\nMulti-camera support : Tracks\nloading/unloading across multiple\ndocks\nSeamless ERP/WMS integration :\nAutomated report generation",
+      "chunk_id": 3411
+    },
+    {
+      "doc_id": "f91a3124-b9f0-49f4-9446-27fc1095549a",
+      "page": 5,
+      "text": "HOW\nITS WORK\nDetects crates, SKUs, and\nAI-based visual tracking 1\nmovements in real-time\nVehicle number plate recognition 2\nLinks shipments to delivery\nrecords\nReal-time dashboard 3\nLive updates on loading\nprogress\nAutomated reports\nAccurate SKU & crate counts\n4\nper shipment",
+      "chunk_id": 3412
+    },
+    {
+      "doc_id": "f91a3124-b9f0-49f4-9446-27fc1095549a",
+      "page": 6,
+      "text": "KEY BENEFITS\nFOR THE MILK FACTORY\n100% Traceability : Every\nBoost Efficiency :\nSKU is accounted for,\nReduce counting time\nimproving compliancece\nby X%\ncounting time by X%\nCut Costs : Minimize Scalable & Future-Ready :\nlabor costs & errors, Adapts to increasing\nsaving $X/year production volumes",
+      "chunk_id": 3413
+    },
+    {
+      "doc_id": "f91a3124-b9f0-49f4-9446-27fc1095549a",
+      "page": 7,
+      "text": "COMPETITIVE EDGE -\nWHY CHOOSE ALBERTRON?\nFeature Albertron Barcode Counting RFID\n✅ ❌\nAccuracy 99%+ Human-dependent ⚠ Possible tag failures\n✅ ❌\nCrate & SKU Detection AI-based Requires scanning ⚠ Limited to tagged items\n✅ ❌ ✅\nMulti-Camera Support Yes No Yes\n✅\nYes\n❌\nWorks in Harsh Conditions (dirty/damaged No ⚠ Tag readability issues\ncrates)\n✅ ❌ ❌\nVehicle Tracking Yes No No",
+      "chunk_id": 3414
+    },
+    {
+      "doc_id": "f91a3124-b9f0-49f4-9446-27fc1095549a",
+      "page": 8,
+      "text": "LIVE DEMO\n&\nPILOT PROPOSAL\nLIVE IN-FACTORY DEMO PILOT DEPLOYMENT OFFER SEAMLESS INTEGRATION PLAN\n1-month trial with\nExperience real-time Step-by-step\nKPI-based success\ncounting accuracy implementation with zero\nmetrics\ndowntime",
+      "chunk_id": 3415
+    },
+    {
+      "doc_id": "f91a3124-b9f0-49f4-9446-27fc1095549a",
+      "page": 9,
+      "text": "CALLTO ACTION –\nNEXT STEPS\nSCHEDULE A DEMO Pick a date for an on-site trial\nDEPLOY A PILOT Start testing in a real factory environment\nFULL-SCALE\nSeamless transition to automated counting\nIMPLEMENTATION",
+      "chunk_id": 3416
+    },
+    {
+      "doc_id": "f91a3124-b9f0-49f4-9446-27fc1095549a",
+      "page": 10,
+      "text": "THANK YOU",
+      "chunk_id": 3417
+    },
+    {
+      "doc_id": "43b5d0e8-864f-4b4c-9f83-a1c253b16249",
+      "page": 1,
+      "text": "DAIRY SUPPLY\nALBERTRON PRODUCT COUNTER\nStronger focus on crate &\nSKU counting, vehicle tracking, and automation benefits for\nthe milk factory",
+      "chunk_id": 3418
+    },
+    {
+      "doc_id": "43b5d0e8-864f-4b4c-9f83-a1c253b16249",
+      "page": 2,
+      "text": "ABOUT OUR\nCOMPANY\nRevolutionizing Crate &\nSKU Counting for the\nDairy Industry\nAccurate\nAutomated\nScalable",
+      "chunk_id": 3419
+    },
+    {
+      "doc_id": "43b5d0e8-864f-4b4c-9f83-a1c253b16249",
+      "page": 3,
+      "text": "PROBLEM\nManual crate &\n1\nSKU counting STATEMENT\nInefficient vehicle\n2\nChallenges in Dairy Product\ntracking\nLogistics\nProne to errors, slow process\nTime-consuming\n3\nMiscounts lead to supply chain losses\nloading/unloading\nDelays in distribution\nExisting systems struggle with high\nvolumes\nLimited scalability\n4",
+      "chunk_id": 3420
+    },
+    {
+      "doc_id": "43b5d0e8-864f-4b4c-9f83-a1c253b16249",
+      "page": 4,
+      "text": "OUR\nSOLUTION\nAI-powered real-time counting : 99%\naccuracy in crate & SKU detection\nAutomated vehicle monitoring :\nIntegrates number plate recognition\nMulti-camera support : Tracks\nloading/unloading across multiple\ndocks\nSeamless ERP/WMS integration :\nAutomated report generation",
+      "chunk_id": 3421
+    },
+    {
+      "doc_id": "43b5d0e8-864f-4b4c-9f83-a1c253b16249",
+      "page": 5,
+      "text": "HOW\nITS WORK\nDetects crates, SKUs, and\nAI-based visual tracking 1\nmovements in real-time\nVehicle number plate recognition 2\nLinks shipments to delivery\nrecords\nReal-time dashboard 3\nLive updates on loading\nprogress\nAutomated reports\nAccurate SKU & crate counts\n4\nper shipment",
+      "chunk_id": 3422
+    },
+    {
+      "doc_id": "43b5d0e8-864f-4b4c-9f83-a1c253b16249",
+      "page": 6,
+      "text": "KEY BENEFITS\nFOR THE MILK FACTORY\n100% Traceability : Every\nBoost Efficiency :\nSKU is accounted for,\nReduce counting time\nimproving compliancece\nby X%\ncounting time by X%\nCut Costs : Minimize Scalable & Future-Ready :\nlabor costs & errors, Adapts to increasing\nsaving $X/year production volumes",
+      "chunk_id": 3423
+    },
+    {
+      "doc_id": "43b5d0e8-864f-4b4c-9f83-a1c253b16249",
+      "page": 7,
+      "text": "COMPETITIVE EDGE -\nWHY CHOOSE ALBERTRON?\nFeature Albertron Barcode Counting RFID\n✅ ❌\nAccuracy 99%+ Human-dependent ⚠ Possible tag failures\n✅ ❌\nCrate & SKU Detection AI-based Requires scanning ⚠ Limited to tagged items\n✅ ❌ ✅\nMulti-Camera Support Yes No Yes\n✅\nYes\n❌\nWorks in Harsh Conditions (dirty/damaged No ⚠ Tag readability issues\ncrates)\n✅ ❌ ❌\nVehicle Tracking Yes No No",
+      "chunk_id": 3424
+    },
+    {
+      "doc_id": "43b5d0e8-864f-4b4c-9f83-a1c253b16249",
+      "page": 8,
+      "text": "LIVE DEMO\n&\nPILOT PROPOSAL\nLIVE IN-FACTORY DEMO PILOT DEPLOYMENT OFFER SEAMLESS INTEGRATION PLAN\n1-month trial with\nExperience real-time Step-by-step\nKPI-based success\ncounting accuracy implementation with zero\nmetrics\ndowntime",
+      "chunk_id": 3425
+    },
+    {
+      "doc_id": "43b5d0e8-864f-4b4c-9f83-a1c253b16249",
+      "page": 9,
+      "text": "CALLTO ACTION –\nNEXT STEPS\nSCHEDULE A DEMO Pick a date for an on-site trial\nDEPLOY A PILOT Start testing in a real factory environment\nFULL-SCALE\nSeamless transition to automated counting\nIMPLEMENTATION",
+      "chunk_id": 3426
+    },
+    {
+      "doc_id": "43b5d0e8-864f-4b4c-9f83-a1c253b16249",
+      "page": 10,
+      "text": "THANK YOU",
+      "chunk_id": 3427
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 1,
+      "text": "Q2\n2025\nA.P. Møller - Mærsk A/S | Interim Report | 7 August 2025 ALL THE WAY\nEsplanaden 50, DK-1263 Copenhagen K | Registration no. 22756214",
+      "chunk_id": 3428
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 2,
+      "text": "A.P. Moller - Maersk Interim Report Q2 | 7 August 2025 2\nContacts for further information Comparative figures Contents\nVincent Clerc, CEO Unless otherwise stated, all figures in parentheses\nPatrick Jany, CFO refer to the corresponding figures for the same\nperiod prior year.\nInvestors\nStefan Gruber, Head of Investor Relations Financial calendar\nTel. +45 3363 3484 06 November 2025, Interim Report Q3 2025 Highlights Q2 2025  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 03\nSummary financial information  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 04\nMedia ESEF data Review Q2 2025  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 05\nJesper Lov, Head of Media Relations Domicile of entity\nTel. +45 6114 1521 Denmark Review 6M 2025  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 06\nDescrip",
+      "chunk_id": 3429
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 2,
+      "text": " of Media Relations Domicile of entity\nTel. +45 6114 1521 Denmark Review 6M 2025  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 06\nDescription of nature of entity’s operations Financial guidance and targets  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 07\nWebcast and dial-in information and principal activities\nA webcast relating to the Q2 2025 Interim Report Logistics company Market environment  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 08\nwill be held on 7 August 2025 at 11.00 (CET).\nDial-in infor mation on investor.maersk.com. Country of incorporation Segments  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 09\nDenmark\n– Ocean  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+      "chunk_id": 3430
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 2,
+      "text": " . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 09\nDenmark\n– Ocean  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 09\nPresentation material for the webcast will be Principal place of business\navailable on the same page. Global – Logistics & Services  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11\nThe Interim Report for Q2 2025 of Legal form of entity – Terminals  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13\nA.P. Møller - Mærsk A/S (further referred to as A/S (Danish Limited Liability Company)\nA.P. Moller - Maersk as the consolidated group\nName of reporting entity or other means\nof companies) has been prepared in accordance\nwith IAS 34 Interim Financial Reporting as issued of identification Condensed income statement  . . . . . . . . . . . . . . . .",
+      "chunk_id": 3431
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 2,
+      "text": "ting entity or other means\nof companies) has been prepared in accordance\nwith IAS 34 Interim Financial Reporting as issued of identification Condensed income statement  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15\nA.P. Møller - Mærsk A/S\nby the International Accounting Standards Board\n(IASB) and adopted by the EU and additional Condensed statement of comprehensive income  . . . . . . . . . . . . . . . . . 15\nAddress of entity’s registered office\nDanish disclosure requirements for interim\nfinancial reporting of listed companies. Esplanaden 50, DK-1263 Copenhagen K Condensed balance sheet at 30 June  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16\nName of parent entity\nCondensed cash flow statement  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17\nThe interim consolidated financial statements A.P. Møller Holding A/S\nhave not been subject to audit or review. Condensed statement of changes in equity  . . . . . .",
+      "chunk_id": 3432
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 2,
+      "text": ". . . . . . . . . . . . . . . . 17\nThe interim consolidated financial statements A.P. Møller Holding A/S\nhave not been subject to audit or review. Condensed statement of changes in equity  . . . . . . . . . . . . . . . . . . . . . . . 18\nNotes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19\nManagement’s statement  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23\nQuarterly summary  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24\nDefinition of terms  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25\nImproving life for all by integrating the world\nA.P. Moller - Maersk is an integrated logistics company working to connect and simplify its customers’\nsupply chains. As a global leader in logistics services, the company has 100,000+ customers, opera",
+      "chunk_id": 3433
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 2,
+      "text": ".P. Moller - Maersk is an integrated logistics company working to connect and simplify its customers’\nsupply chains. As a global leader in logistics services, the company has 100,000+ customers, operates in\nalmost 130 countries and employs 100,000+ people. Maersk is committed to reaching net-zero emissions\nby 2040 across the entire supply chain with new technologies, new vessels and alternative fuels. Management Review Financials",
+      "chunk_id": 3434
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 3,
+      "text": "Management Review I Highlights Q2 2025 A.P. Moller - Maersk Interim Report Q2 | 7 August 2025 3\nManagement Review\nA.P. Moller - Maersk saw solid performance in the second quarter and delivered EBITDA and EBIT Ocean’s profitability is a result of solid volume growth of 4.2% and higher revenue from demurrage and\nof USD 2.3bn and USD 845m, respectively. The results came on the back of continued focus on detention, reflected in the higher revenue year-on-year of USD 8.6bn (USD 8.4bn) and an increased EBITDA\nexecution and operational improvements, despite the unprecedented geopolitical volatility and by USD 36m or 2.6%. Performance was affected by the continued pressure on loaded freight rates, as\nlow visibility into macroeconomic developments. expected, and higher container handling costs as a result of higher volumes, resulting in an EBIT margin\nof 2.7% (5.6%). Sequentially, EBIT decreased by USD 514m from USD 743m in Q1 2025, and the EBIT margin\nOcean demonstrated good profitability, dri",
+      "chunk_id": 3435
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 3,
+      "text": " result of higher volumes, resulting in an EBIT margin\nof 2.7% (5.6%). Sequentially, EBIT decreased by USD 514m from USD 743m in Q1 2025, and the EBIT margin\nOcean demonstrated good profitability, driven by the volume growth notwithstanding significant volatility decreased by 5.6 percentage points from 8.3% in Q1 2025.\nin the quarter and adverse sequential rate developments. Logistics & Services showed continued progress\nwith an EBIT margin improvement to 4.8%, driven by growth in key products, cost control and operational Logistics & Services continued to progress in Q2 and reported revenue growth sequentially and year-on-year\nimprovements. Terminals showed strong results from record-high volume, higher revenue per move of 5.2% and 1.0%, respectively. The EBIT margin improved by 1.3 percentage points year-on-year and reached\nsupported by storage income, and cost per move mitigated through high utilisation as well as a higher share 4.8% (3.5%), driven by operational improvements and th",
+      "chunk_id": 3436
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 3,
+      "text": "ntage points year-on-year and reached\nsupported by storage income, and cost per move mitigated through high utilisation as well as a higher share 4.8% (3.5%), driven by operational improvements and the continuation of overall cost control. Sequentially,\nof profits from joint ventures and associates. EBIT increased by 23%, and the EBIT margin increased by 0.7 percentage points.\nJune 2025 marked the first month of the Gemini cooperation being successfully phased in and it is on\ntrack to deliver the reliability and cost-saving ambitions. Terminals contributed with a high top line and EBITDA, with revenue increasing by 20% to USD 1.3bn (USD\n1.1bn), with strong volume growth supported by the Gemini cooperation, improved tariffs and higher storage\nrevenue. As a result, the EBIT margin improved by 2.9 percentage points to 35.3% (32.4%) and ROIC (LTM)\nOutlook\nincreased to 15.4% (12.2%). Sequentially, EBIT increased by 17% due to the higher revenue, and the EBIT\nGiven the more resilient market ",
+      "chunk_id": 3437
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 3,
+      "text": "y 2.9 percentage points to 35.3% (32.4%) and ROIC (LTM)\nOutlook\nincreased to 15.4% (12.2%). Sequentially, EBIT increased by 17% due to the higher revenue, and the EBIT\nGiven the more resilient market demand outside of North America, A.P. Moller - Maersk (Maersk) raises its margin improved by 3.3 percentage points.\nfull-year 2025 financial guidance as per the table below. The expected global container market volume\ngrowth has been revised to between 2% and 4% (previously between -1% and 4%). At this time, the disruption Free cash flow of negative USD 373m (positive USD 397m) decreased due to higher capital expenditures\nin the Red Sea is still expected to last for the full year. and lease repayments during the quarter, partly offset by higher cash flow from operating activities.\nUSDbn\nEBITDA Underlying 8.0-9.5 EBIT Underlying 2.0-3.5 Free cash flow or higher -1.0 Distribution of cash to shareholders during the quarter was USD 864m (USD 310m), of which USD 514m\n(Previously: 6.0-9.0) (Prev",
+      "chunk_id": 3438
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 3,
+      "text": " Underlying 8.0-9.5 EBIT Underlying 2.0-3.5 Free cash flow or higher -1.0 Distribution of cash to shareholders during the quarter was USD 864m (USD 310m), of which USD 514m\n(Previously: 6.0-9.0) (Previously: 0.0-3.0) (Previously: -3.0 or higher) (USD 0m) was from share buy-backs.\nCAPEX (Unchanged) 10.0-11.0 CAPEX (Unchanged) 10.0-11.0\n2024-2025 2025-2026\nHighlights Q2\nUSD million\nRevenue EBITDA EBIT CAPEX\nHighlights Q2 2025\n2025 2024 2025 2024 2025 2024 2025 2024\nMaersk’s results continued to improve year-on-year with consolidated revenue of USD 13.1bn (USD 12.8bn) Ocean 8,572 8,370 1,443 1,407 229 470 964 578\nand EBITDA of USD 2.3bn (USD 2.1bn), while EBIT declined to USD 845m (USD 963m). The results were driven Logistics & Services 3,668 3,632 419 348 175 126 139 159\nby volume and other revenue growth in Ocean, margin improvements in Logistics & Services and significant Terminals 1,307 1,089 458 408 461 353 141 135\ntop line growth in Terminals, resulting in an EBITDA margin of 17.5% ",
+      "chunk_id": 3439
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 3,
+      "text": "revenue growth in Ocean, margin improvements in Logistics & Services and significant Terminals 1,307 1,089 458 408 461 353 141 135\ntop line growth in Terminals, resulting in an EBITDA margin of 17.5% (16.8%) and an EBIT margin of 6.4% (7.5%). Unallocated activities, eliminations, etc . -417 -320 -22 -19 -20 14 34 32\nA.P. Moller - Maersk consolidated 13,130 12,771 2,298 2,144 845 963 1,278 904\nThe underlying EBIT margin increased by 0.3 percentage points to 6.2% (5.9%).",
+      "chunk_id": 3440
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 4,
+      "text": "Management Review I Summary financial information A.P. Moller - Maersk Interim Report Q2 | 7 August 2025 4\nSummary financial information\nQ2 Q2 6M 6M 12M Q2 Q2 6M 6M 12M\nIncome statement 2025 2024 2025 2024 2024 Financial ratios 2025 2024 2025 2024 2024\nRevenue 13,130 12,771 26,451 25,126 55,482 Revenue growth 2 .8% −1 .7% 5 .3% −7 .6% 8 .6%\nProfit before depreciation, amortisation and impairment EBITDA margin 17 .5% 16 .8% 18 .9% 14 .9% 21 .9%\nlosses, etc . (EBITDA) 2,298 2,144 5,008 3,734 12,128\nEBIT margin 6 .4% 7 .5% 7 .9% 4 .5% 11 .7%\nDepreciation, amortisation and impairment losses, net 1,651 1,481 3,271 2,999 6,220\nCash conversion 81% 76% 92% 73% 94%\nGain on sale of non-current assets, etc ., net 25 208 80 215 222\nReturn on invested capital after tax (ROIC) (last 12 months) 13 .7% 2 .0% 13 .7% 2 .0% 12 .3%\nShare of profit in joint ventures and associated companies 173 92 281 190 369\nEquity ratio 65 .0% 65 .8% 65 .0% 65 .8% 66 .1%\nProfit before financial items (EBIT) 845 963 2,098",
+      "chunk_id": 3441
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 4,
+      "text": ".0% 13 .7% 2 .0% 12 .3%\nShare of profit in joint ventures and associated companies 173 92 281 190 369\nEquity ratio 65 .0% 65 .8% 65 .0% 65 .8% 66 .1%\nProfit before financial items (EBIT) 845 963 2,098 1,140 6,499\nUnderlying ROIC1 (last 12 months) 13 .7% 1 .5% 13 .7% 1 .5% 12 .0%\nFinancial items, net -111 13 66 164 317\nUnderlying EBITDA1 2,298 2,143 5,008 3,740 12,133\nProfit before tax 734 976 2,164 1,304 6,816\nUnderlying EBITDA margin1 17 .5% 16 .8% 18 .9% 14 .9% 21 .9%\nTax 95 143 318 263 584\nUnderlying EBIT1 818 756 2,017 930 6,356\nProfit for the period 639 833 1,846 1,041 6,232\nUnderlying EBIT margin1 6 .2% 5 .9% 7 .6% 3 .7% 11 .5%\nA .P . Møller - Mærsk A/S’ share 586 798 1,748 975 6,109\nStock market ratios\nUnderlying profit1 614 623 1,766 833 6,095\nEarnings per share, USD 38 51 113 62 387\nDiluted earnings per share, USD 38 51 112 62 387\nBalance sheet\nCash flow from operating activities per share, USD 121 103 298 172 723\nTotal assets 87,860 80,745 87,860 80,745 87,697\nShare price (B ",
+      "chunk_id": 3442
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 4,
+      "text": "87\nDiluted earnings per share, USD 38 51 112 62 387\nBalance sheet\nCash flow from operating activities per share, USD 121 103 298 172 723\nTotal assets 87,860 80,745 87,860 80,745 87,697\nShare price (B share), end of period, DKK 11,775 12,105 11,775 12,105 11,905\nTotal equity 57,069 53,126 57,069 53,126 57,947\nShare price (B share), end of period, USD 1,850 1,736 1,850 1,736 1,668\nInvested capital 54,619 49,563 54,619 49,563 50,564\nTotal market capitalisation, end of period, USD 28,068 26,992 28,068 26,992 25,698\nNet interest-bearing debt -2,454 -3,563 -2,454 -3,563 -7,373\n1 For definition of terms, see page 25.\nCash flow statement\nCash flow from operating activities 1,859 1,626 4,625 2,721 11,408\nRepayments of lease liabilities -1,014 -742 -1,815 -1,491 -3,051\nCAPEX -1,278 -904 -2,676 -1,610 -4,201\nCash flow from financing activities -2,473 -368 -5,680 -1,426 -3,500\nFree cash flow -373 397 433 246 5,114\nAmounts in USD million",
+      "chunk_id": 3443
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 4,
+      "text": "0 -4,201\nCash flow from financing activities -2,473 -368 -5,680 -1,426 -3,500\nFree cash flow -373 397 433 246 5,114\nAmounts in USD million",
+      "chunk_id": 3444
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 5,
+      "text": "Management Review I Review Q2 2025 A.P. Moller - Maersk Interim Report Q2 | 7 August 2025 5\nReview Q2 2025 Financial items, net was an expense of USD 111m (income of USD 13m), primarily due to negative foreign\nexchange rate effects on working capital, increased interest expenses on leases and lower interest income.\nTax decreased to USD 95m (USD 143m), primarily due to the decreased taxable income.\nA.P. Moller - Maersk continued to deliver solid results in Q2, driven by sequential volume\nincreases, operational improvements and supported by continued cost control. The underlying profit was USD 614m (USD 623m).\nRevenue increased by 2.8% or USD 359m to USD 13.1bn (USD 12.8bn), stemming from growth in all segments. Cash flow from operating activities of USD 1.9bn (USD 1.6bn) was driven by the higher EBITDA, together with\nOcean revenue increased by 2.4%, mainly attributed to higher volumes and higher revenue from demurrage a solid cash conversion of 81% (76%).\nand detention, despite a 9.6% y",
+      "chunk_id": 3445
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 5,
+      "text": "igher EBITDA, together with\nOcean revenue increased by 2.4%, mainly attributed to higher volumes and higher revenue from demurrage a solid cash conversion of 81% (76%).\nand detention, despite a 9.6% year-on-year decline in loaded freight rates. Logistics & Services delivered\na 1.0% increase, driven by Managed by Maersk and Transported by Maersk. Terminals contributed with an CAPEX of USD 1.3bn (USD 904m) was mainly driven by higher investments in Ocean.\nincrease of 20% from higher volume, improved tariffs and higher storage revenue.\nUSD\nFree cash flow of USD negative 373m (positive USD 397m) was primarily impacted by increased capital\nOcean 8.6bn Logistics & Services 3.7bn Terminals 1.3bn expenditures and capitalised leases, as well as lower sale proceeds and dividends received, partly offset\n(2024: 8.4bn) (2024: 3.6bn) (2024: 1.1bn)\nby higher cash flow from operating activities.\nEBITDA increased to USD 2.3bn (USD 2.1bn), with the EBITDA margin improving to 17.5% (16.8%), driven Share ",
+      "chunk_id": 3446
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 5,
+      "text": "set\n(2024: 8.4bn) (2024: 3.6bn) (2024: 1.1bn)\nby higher cash flow from operating activities.\nEBITDA increased to USD 2.3bn (USD 2.1bn), with the EBITDA margin improving to 17.5% (16.8%), driven Share buy-back\nby higher revenue and cost management. Ocean’s EBITDA of USD 1.4bn (USD 1.4bn) slightly increased by As announced in February 2025, A.P. Moller - Maersk (Maersk) initiated a share buy-back programme of up to\nUSD 36m, and the EBITDA margin remained stable at 16.8% (16.8%). Logistics & Services contributed around USD 2bn to be executed over a period of 12 months. Of the total planned share buy-back of around\nsignificantly with a USD 71m increase, largely due to operational improvements in Fulfilled by Maersk. USD 2bn, Maersk executed USD 857m of share buy-backs by 30 June 2025. For more details, see shareholder\nTerminals’ EBITDA increased by USD 50m, driven by higher revenue and improved utilisation. information in Maersk’s Annual Report 2024. At 30 June 2025, Maersk owned a total o",
+      "chunk_id": 3447
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 5,
+      "text": " details, see shareholder\nTerminals’ EBITDA increased by USD 50m, driven by higher revenue and improved utilisation. information in Maersk’s Annual Report 2024. At 30 June 2025, Maersk owned a total of 73,906 A shares and\nUSD\n525,651 B shares as treasury shares, corresponding to 3.79% of the share capital.\nOcean 1.4bn Logistics & Services 419m Terminals 458m\n(2024: 1.4bn) (2024: 348m) (2024: 408m)\nESG update\nEBIT decreased by USD 118m to USD 845m (USD 963m), with an EBIT margin of 6.4% (7.5%), mainly driven by Following the International Maritime Organization’s (IMO) milestone approval of the net-zero regulatory\nOcean which experienced a decrease of USD 241m, mainly due to lower gains on sale of assets and higher frame work for global shipping in April 2025, which is subject to formal adoption in October, Maersk continues\ndepreciation linked to capacity increases. Consequently, underlying EBIT increased by USD 62m and the to make progress on its climate transition plan to 2030 and the ",
+      "chunk_id": 3448
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 5,
+      "text": "tion in October, Maersk continues\ndepreciation linked to capacity increases. Consequently, underlying EBIT increased by USD 62m and the to make progress on its climate transition plan to 2030 and the target of achieving net-zero greenhouse gas\nunderlying EBIT margin was 6.2% (5.9%). The Ocean EBIT decline was partly offset by the Terminals EBIT emissions by 2040.\nincrease by USD 108m to USD 461m (USD 353m), supported by top line growth and strong results from In May 2025, the world’s first large-scale commercial e-methanol facility, the Kassø facility near Aabenraa,\njoint ventures and associated companies. Logistics & Services’ EBIT increased by USD 49m to USD 175m Denmark, was inaugurated and started to supply e-methanol to Maersk. Maersk is using the fuel produced at\n(USD 126m), mainly driven by stronger profitability in Fulfilled by Maersk due to business refocusing Kassø to operate Laura Mærsk, the world’s first container vessel operating on methanol.\nefforts, resulting in an EBIT ",
+      "chunk_id": 3449
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 5,
+      "text": "riven by stronger profitability in Fulfilled by Maersk due to business refocusing Kassø to operate Laura Mærsk, the world’s first container vessel operating on methanol.\nefforts, resulting in an EBIT margin of 4.8% (3.5%). In June 2025, Maersk took delivery of Berlin Mærsk, the first vessel in a series of 17,480 TEU vessels\nUSD\nequipped with dual-fuel methanol propulsion and the 14th dual-fuel newbuild in Maersk’s fleet. Berlin Mærsk\nOcean 229m Logistics & Services 175m Terminals 461m is the largest dual-fuel ship to date to join the Maersk fleet and will be followed by five additional vessels in\n(2024: 470m) (2024: 126m) (2024: 353m)\nthis new class of container ships with delivery in 2025.\nFor more details about Maersk’s climate transition plan towards 2030, see Maersk’s Annual Report 2024.",
+      "chunk_id": 3450
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 5,
+      "text": "4.",
+      "chunk_id": 3451
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 6,
+      "text": "Management Review I Review 6M 2025 A.P. Moller - Maersk Interim Report Q2 | 7 August 2025 6\nReview 6M 2025\nA.P. Moller - Maersk delivered solid profitability in the first half of 2025 by focusing on execu- Free cash flow increased to USD 433m (USD 246m), driven by higher cash flow from operating activities\ntion and operational improvements amid an unprecedented volatile global trade environment. and partly offset by higher capital expenditures and lease payments.\nRevenue increased by USD 1.3bn to USD 26.5bn (USD 25.1bn) in the first half of 2025, driven by all Equity decreased to USD 57.1bn (USD 57.9bn on 31 December 2024) due to dividend payments and share\nsegments, with an increase of USD 1.1bn in Ocean, USD 20m in Logistics & Services and USD 450m in buy-backs, partly offset by the net profit, resulting in an equity ratio of 65.0% (66.1% at 31 December 2024).\nTerminals. Revenue in Ocean was positively impacted by higher loaded freight rates in Q4 2024 benefitting\n2025 and a 2.2% inc",
+      "chunk_id": 3452
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 6,
+      "text": "profit, resulting in an equity ratio of 65.0% (66.1% at 31 December 2024).\nTerminals. Revenue in Ocean was positively impacted by higher loaded freight rates in Q4 2024 benefitting\n2025 and a 2.2% increase in loaded volumes, although this was partly offset by a 3.9% decrease in loaded Capital structure and credit rating\nfreight rates. Revenue in Logistics & Services increased, driven by Managed by Maersk and Transported Net interest-bearing debt amounted to a net cash position of USD 2.5bn (a net cash position of USD 7.4bn\nby Maersk, partly offset by decreases in Last Mile and Middle Mile in Fulfilled by Maersk due to business at 31 December 2024), positively impacted by free cash flow for the first six months of USD 433m and offset\nrefocusing efforts in 2025. The increased revenue in Terminals was driven by higher volume, tariffs and by dividends distributed to shareholders and share buy-backs of USD 3.4bn, acquisitions, net of USD 684m\nstorage revenue. and net new lease liabilities o",
+      "chunk_id": 3453
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 6,
+      "text": "inals was driven by higher volume, tariffs and by dividends distributed to shareholders and share buy-backs of USD 3.4bn, acquisitions, net of USD 684m\nstorage revenue. and net new lease liabilities of USD 1.3bn. Excluding lease liabilities, the Group had a net cash position of\nUSD 15.1bn (USD 18.8bn at 31 December 2024).\nEBITDA also rose by USD 1.3bn to USD 5.0bn (USD 3.7bn), driven by improvements across all segments.\nOcean’s EBITDA increased by USD 983m due to higher revenue, partly offset by higher network costs A.P. Moller - Maersk remains investment grade-rated and holds a Baa1 (stable) from Moody’s and a BBB+\nexcluding bunker and higher container handling costs. Logistics & Services’ EBITDA increased by USD 188m (stable) rating from Standard & Poor’s.\nwith contributions from all service models and primarily from Fulfilled by Maersk. Terminals’ EBITDA\nimproved by USD 146m due to increased revenue, partly offset by higher variable costs. The liquidity reserve decreased to USD 24.7",
+      "chunk_id": 3454
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 6,
+      "text": "vice models and primarily from Fulfilled by Maersk. Terminals’ EBITDA\nimproved by USD 146m due to increased revenue, partly offset by higher variable costs. The liquidity reserve decreased to USD 24.7bn (USD 29.0bn at 31 December 2024) and was composed of\ncash and bank balances (excluding restricted cash), term deposits and securities of USD 18.6bn (USD 22.9bn\nEBIT increased by USD 958m to USD 2.1bn (USD 1.1bn), driven by the increased EBITDA partly offset by at 31 December 2024) and undrawn revolving credit facilities of USD 6.1bn (USD 6.1bn at 31 December 2024).\nhigher depreciation. The EBIT margin increased to 7.9% (4.5%).\nThe dividend of DKK 1,120 per A.P. Møller - Mærsk A/S share of nominally DKK 1,000, a total of USD 2.5bn\nFinancial items, net decreased to USD 66m (USD 164m), mainly due to higher interest expenses on leases. was declared at the Annual General Meeting on 18 March 2025, excluding treasury shares. Of this, USD 2.2bn\nwas paid on 21 March 2025, and the withholding tax",
+      "chunk_id": 3455
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 6,
+      "text": "due to higher interest expenses on leases. was declared at the Annual General Meeting on 18 March 2025, excluding treasury shares. Of this, USD 2.2bn\nwas paid on 21 March 2025, and the withholding tax of USD 350m was paid during Q2 2025.\nTax increased to USD 318m (USD 263m), primarily due to higher profit before tax.\nHighlights 6M\nThe underlying profit of USD 1.8bn (USD 833m) was adjusted for net gains of USD 80m (USD 215m), mainly USD million\ndriven by container sales in Ocean.\nRevenue EBITDA EBIT CAPEX\n2025 2024 2025 2024 2025 2024 2025 2024\nCash flow from operating activities of USD 4.6bn (USD 2.7bn) was driven by the EBITDA of USD 5.0bn,\nslightly offset by taxes paid of USD 337m and unfavourable movements in net working capital of USD 175m, Ocean 17,482 16,379 3,346 2,363 972 309 2,132 903\ntranslating into a cash conversion of 92% (73%). Logistics & Services 7,156 7,136 802 614 317 180 236 360\nTerminals 2,538 2,088 902 756 855 653 267 262\nCAPEX was USD 2.7bn (USD 1.6bn), mainly dri",
+      "chunk_id": 3456
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 6,
+      "text": " 903\ntranslating into a cash conversion of 92% (73%). Logistics & Services 7,156 7,136 802 614 317 180 236 360\nTerminals 2,538 2,088 902 756 855 653 267 262\nCAPEX was USD 2.7bn (USD 1.6bn), mainly driven by higher Ocean investments. Unallocated activities, eliminations, etc . -725 -477 -42 1 -46 -2 41 85\nA.P. Moller - Maersk consolidated 26,451 25,126 5,008 3,734 2,098 1,140 2,676 1,610",
+      "chunk_id": 3457
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 7,
+      "text": "Management Review I Financial guidance and targets A.P. Moller - Maersk Interim Report Q2 | 7 August 2025 7\nFinancial guidance and targets\nFinancial guidance for 2025 Roadmap towards 2025\nGiven the more resilient market demand outside of North America, A.P. Moller - Maersk (Maersk) raises its The mid-term financial targets introduced at the Capital Markets Day in May 2021 relate to the transf ormation\nfull-year 2025 financial guidance as per the table below. The expected global container market volume growth towards becoming the integrator of container logistics.\nhas been revised to between 2% and 4% (previously between -1% and 4%). At this time, the disruption in the\nRed Sea is still expected to last for the full year. Consolidated\nUSDbn\nThe return on invested capital (ROIC) (LTM) was 13.7%, above the yearly target of 7.5% under normalised\nEBITDA Underlying 8.0-9.5 EBIT Underlying 2.0-3.5 Free cash flow or higher -1.0 conditions. The strong result in the second half of 2024 supported ",
+      "chunk_id": 3458
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 7,
+      "text": "7%, above the yearly target of 7.5% under normalised\nEBITDA Underlying 8.0-9.5 EBIT Underlying 2.0-3.5 Free cash flow or higher -1.0 conditions. The strong result in the second half of 2024 supported by the continued solid profitability in the\n(Previously: 6.0-9.0) (Previously: 0.0-3.0) (Previously: -3.0 or higher)\nfirst half of 2025 positively impacted ROIC for the last 12 months. The average return on invested capital\nfrom the start of 2021 to Q2 2025 was 28.6%, well above the 12% target for the period 2021-2025.\nCAPEX (Unchanged) 10.0-11.0 CAPEX (Unchanged) 10.0-11.0\n2024-2025 2025-2026\nROIC (each year) 13.7% ROIC (2021-2025) 28.6%\nMaersk’s guidance for 2025 is subject to considerable macroeconomic and geopolitical uncertainties impacting container volume growth and Target: >7.5% Target: >12%\nfreight rates.\nOcean\nSensitivity guidance The Ocean EBIT margin of 14.0% over the last 12 months exceeded the target of 6% under normalised\nconditions; however, the total average operated fleet",
+      "chunk_id": 3459
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 7,
+      "text": ": >12%\nfreight rates.\nOcean\nSensitivity guidance The Ocean EBIT margin of 14.0% over the last 12 months exceeded the target of 6% under normalised\nconditions; however, the total average operated fleet capacity over the last 12 months exceeded the\nFinancial performance for Maersk for 2025 depends on several factors subject to uncertainties related to the given\ntarget range of 4.1-4.3 TEUm.\nuncertain macro economic conditions, bunker fuel prices and freight rates . All else being equal, the sensitivities for 2025\nfor four key assumptions are listed below:\nEBIT margin 14.0% Fleet size 4.5\nEffect on EBIT Target: >6% Target: 4.1-4.3 TEUm TEUm\nFactors Change (Rest of 2025)\nContainer freight rate +/- 100 USD/FFE +/- USD 0 .7bn\nLogistics & Services\nContainer freight volume +/- 100,000 FFE +/- USD 0 .01bn\nThe Logistics & Services organic revenue growth over the last 12 months of 5.3% was below the target\nBunker price (net of expected BAF coverage) +/- 100 USD/tonne +/- USD 0 .1bn\nof 10%. The EB",
+      "chunk_id": 3460
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 7,
+      "text": "0 .01bn\nThe Logistics & Services organic revenue growth over the last 12 months of 5.3% was below the target\nBunker price (net of expected BAF coverage) +/- 100 USD/tonne +/- USD 0 .1bn\nof 10%. The EBIT margin for the last 12 months was 4.5%, still below the target but continuing to improve.\nForeign exchange rate (net of hedges) +/- 10% change in USD +/- USD 0 .1bn\nOrganic revenue growth 5.3% EBIT margin 4.5%\nTarget: >10% Target: >6%\nTerminals\nForward-looking statements\nThe Terminals return on invested capital (ROIC) (LTM) of 15.4% continued to be significantly above the 9% target.\nThe Interim Report contains forward-looking statements. Such statements are subject to risks and uncertainties as several\nfactors, many of which are beyond Maersk’s control, may cause the actual development and results to differ materially from\nexpectations contained in the Interim Report. ROIC 15.4%\nTarget: >9%",
+      "chunk_id": 3461
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 7,
+      "text": "results to differ materially from\nexpectations contained in the Interim Report. ROIC 15.4%\nTarget: >9%",
+      "chunk_id": 3462
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 8,
+      "text": "Market environment Containerized Freight Index (SCFI), declined in Q2 2025 compared to both Q1 2025 (-7%) and to Q2 2024\n(-37%). The outlook for global container demand over the remainder of the year remains uncertain, shaped\nby a rapidly evolving tariff landscape and high policy uncertainty in the US. Unless new major shocks occur,\nglobal demand growth is expected to range between 2% and 4% for the full year.\nMacro environment\nAt the onset of Q2, the US Administration introduced new import tariffs. Since 2 April, tariffs have followed Logistics environment\na series of escalations and suspensions. The effective container- weighted import tariff on US imports is Supply chains showed a high degree of adaptability in Q2. In a highly politicised environment, and confronted\nestimated at 24% as per the Presidential Executive Order dated 31 July, up from 5% in 2024. The uncertainty with major disruptions, goods continued to flow across and within countries. Similarly to container trade,\naroun",
+      "chunk_id": 3463
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 8,
+      "text": "per the Presidential Executive Order dated 31 July, up from 5% in 2024. The uncertainty with major disruptions, goods continued to flow across and within countries. Similarly to container trade,\naround US trade, and more broadly around its economic policy, has occupied the debate on the external global air freight forwarding demand showed resilience in Q2, with an estimated year-on-year growth in the\nenvironment. Meanwhile, tensions in the Middle East continue to run high, despite the de-escalation range of 3% and 5%. Exports out of Far East Asia remain the primary driver. Capacity growth, by measure of\nbetween Israel/US and Iran, and a resolution to the war in Ukraine remains elusive. In the face of persistent available tonne-k ilometres, kept pace in the first half of the year, supported by an uptick in deliveries, resulting\nexternal volatility and prevailing negative sentiment, the global economy has shown resilience. The global in a decline in cargo load factor in April and May. Th",
+      "chunk_id": 3464
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 8,
+      "text": " by an uptick in deliveries, resulting\nexternal volatility and prevailing negative sentiment, the global economy has shown resilience. The global in a decline in cargo load factor in April and May. The TAC index measuring global rates, was down 3% year-\nPurchasing Managers Index (PMI) remained in expansionary territory (above 50) throughout Q2. Risks to the on-year in Q2 and 4% compared to the previous quarter.\nglobal outlook remain elevated. The consensus view is that economic growth will moderate in the second Demand for ground freight in the US grew by 1.2% year-on-year in the first two months of Q2, driven\nhalf of the year as the drag from the US tariffs, heightened uncertainty and the shift in sentiment begin to by a recovery in manufacturing activity. Truckload supply showed early signs of stabilising after a period\ntake hold. Global industry, which benefitted from the frontloading in the first half of the year, is expected to of decline. In Q2, truckload spot rates grew 3% year-",
+      "chunk_id": 3465
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 8,
+      "text": "gns of stabilising after a period\ntake hold. Global industry, which benefitted from the frontloading in the first half of the year, is expected to of decline. In Q2, truckload spot rates grew 3% year-on-year. Less Than Truckload rates were down in April\nbear the brunt of the coming downshift in global demand growth. and May compared to the same period in 2024. In Europe, road freight rates fell by 7.9% year-on-year in Q2\nDriving the downshift in global activity is the US — where policy uncertainty made forecasters more against a backdrop of subdued manufacturing activity.\npessim istic about the outlook in the second half of 2025. Goods consumption, up 3.5% year-on-year in Q2, is Vacancy rates in US warehousing edged up to 7.1% in Q2, as new supply continued to outpace net demand.\nexpected to moderate, due to deteriorating consumer confidence, coupled with the risk of inflation edging However, with a thinning construction pipeline, vacancy rates are likely to remain close to the long-te",
+      "chunk_id": 3466
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 8,
+      "text": "to moderate, due to deteriorating consumer confidence, coupled with the risk of inflation edging However, with a thinning construction pipeline, vacancy rates are likely to remain close to the long-term 7%\nup as tariff-induced price adjustments kick in. Heightened uncertainty also disrupts investment plans. On the average. In Europe, vacancy rates rose to 6.6% in Q1 2025 (latest available figure) after staying flat in 2024.\nother hand, the elevated fiscal deficit will prevent growth from slipping excessively. Growth in the Euro Area This was mainly driven by a stark increase in vacancy in Central and Eastern Europe.\nis predicted to remain modest, owing to a downgraded outlook for domestic consumption, a weaker global\ndemand environment and the claw back from front-loaded exports in Q1. Easing inflation, at 2% in June,\ncombined with the lagged impact from previous European Central Bank monetary easing and the fiscal sup-\nport in Germany will provide some offset. Euro Area retail sales (",
+      "chunk_id": 3467
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 8,
+      "text": "ing inflation, at 2% in June,\ncombined with the lagged impact from previous European Central Bank monetary easing and the fiscal sup-\nport in Germany will provide some offset. Euro Area retail sales (excluding food and fuel) remain challenged,\nwith a 0.1% increase in the first two months of Q2 compared to Q1. In China, robust industrial output stands\nin contrast to the prolonged weakness in domestic demand. With support from 2024 fiscal stimulus fading,\nChina is expected to contribute to the moderation in global growth in the second half of the year.\nContainer trade environment\nIn Q2, global container demand is estimated to have increased between 3% and 5% year-on-year, challenging\nthe concerns of an immediate collapse in global trade after the US tariff announcements in April. The con-\ntraction in North American imports was more than offset by the strong import growth into Europe, Latin\nAmerica, West-Central Asia and Africa. On the supply side, growth remained elevated in Q2, driven b",
+      "chunk_id": 3468
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 8,
+      "text": "action in North American imports was more than offset by the strong import growth into Europe, Latin\nAmerica, West-Central Asia and Africa. On the supply side, growth remained elevated in Q2, driven by\nsignificant deliveries. At the end of the quarter, the nominal fleet was 8.2% larger than at the same time\nin 2024, demolition was close to non-existent, while inactive capacity remained subdued. Amid regional and\nmonth-on-month volatility resulting from the fluctuating tariffs, spot rates, measured by the Shanghai\nsthgisnI\ncigetartS\nksreaM\n:ecruoS\nManagement Review I Market environment A.P. Moller - Maersk Interim Report Q2 | 7 August 2025 8\nContainer trade volumes, by import region\nNorth America Latin America Far East Asia Europe Global Index (FY2019=100)\n130\n120\n110\n100\n90\n80\n70\nQ1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1\n2019 2020 2021 2022 2023 2024 2025",
+      "chunk_id": 3469
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 8,
+      "text": "Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1\n2019 2020 2021 2022 2023 2024 2025",
+      "chunk_id": 3470
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 9,
+      "text": "Management Review I Segments I Ocean A.P. Moller - Maersk Interim Report Q2 | 7 August 2025 9\nSegments Ocean highlights\nUSD million\nQ2 Q2 6M 6M 12M\n2025 2024 2025 2024 2024\nFreight revenue 7,287 7,279 14,866 13,994 32,684\nOcean\nOther revenue, including hubs 1,285 1,091 2,616 2,385 4,704\nOcean delivered a good performance in a quarter marked by significant volatility in demand and rates. Revenue 8,572 8,370 17,482 16,379 37,388\nEBIT reached USD 229m (USD 470m) and volumes grew 10% sequentially, with freight rates picking up in the Container handling costs 2,583 2,423 5,059 4,810 9,744\nquarter, while still being under pressure both sequentially and compared to previous year. Bunker costs 1,552 1,848 3,153 3,639 7,067\nCompared to the same period last year, loaded volumes increased by 4.2%, driven by Asian exports, Network costs, excluding bunker costs 1,883 1,622 3,596 3,325 6,811\nwhile the average freight rate decreased by 9.6% across most trades. The increased volumes led to higher Sell",
+      "chunk_id": 3471
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 9,
+      "text": "iven by Asian exports, Network costs, excluding bunker costs 1,883 1,622 3,596 3,325 6,811\nwhile the average freight rate decreased by 9.6% across most trades. The increased volumes led to higher Selling, General & Administrative (SG&A) costs 696 657 1,290 1,260 2,626\noperating costs, which were partly offset by 16% lower bunker price and the continued optimisation of bunker Cost of goods sold and other operational costs 431 414 1,037 956 1,954\ncon sumption, which was reduced by 4.7%, despite the higher volumes. Unit cost increased slightly by 1.8%, Total operating costs 7,145 6,964 14,135 13,990 28,202\nimpacted by the higher cost base, partly offset by the strong volume growth. As in the prior year, Ocean’s Other income/costs, net 16 1 -1 -26 -\ncost base remains impacted by the network re-routing south of the Cape of Good Hope as Red Sea passage\nProfit before depreciation, amortisation and\nis still deemed unsafe. impairment losses, etc. (EBITDA) 1,443 1,407 3,346 2,363 9,186\nUtilisati",
+      "chunk_id": 3472
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 9,
+      "text": "-routing south of the Cape of Good Hope as Red Sea passage\nProfit before depreciation, amortisation and\nis still deemed unsafe. impairment losses, etc. (EBITDA) 1,443 1,407 3,346 2,363 9,186\nUtilisation of 94% (97%) remains at high levels, improving by 1.8 percentage points compared to Q1 2025. EBITDA margin 16 .8% 16 .8% 19 .1% 14 .4% 24 .6%\nFurthermore, with the successful implementation of the Gemini cooperation during Q2, the East-West net-\nwork achieved a reliability higher than 90% and is on track to achieve the expected savings. Profit before financial items (EBIT) 229 470 972 309 4,743\nEBIT margin 2 .7% 5 .6% 5 .6% 1 .9% 12 .7%\nFinancial and operational performance\nRevenue increased by USD 202m to USD 8.6bn (USD 8.4bn), driven by the increase in other revenue, due to\nInvested capital 32,918 29,930 32,918 29,930 30,864\nthe higher revenue from demurrage and detention, supported by the increased hub income. Freight revenue\nCAPEX 964 578 2,132 903 2,708\nremained stable at USD 7.3bn",
+      "chunk_id": 3473
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 9,
+      "text": "al 32,918 29,930 32,918 29,930 30,864\nthe higher revenue from demurrage and detention, supported by the increased hub income. Freight revenue\nCAPEX 964 578 2,132 903 2,708\nremained stable at USD 7.3bn (USD 7.3bn) as the volume growth effect was offset by the freight rate decline.\nOperational and financial metrics\nEBITDA of USD 1.4bn (USD 1.4bn) remained at the same level, slightly increasing by USD 36m. Similarly, the\nLoaded volumes (FFE in ’000) 3,230 3,101 6,161 6,029 12,338\nEBITDA margin remained stable at 16.8% (16.8%).\nLoaded freight rate (USD per FFE) 2,259 2,499 2,339 2,435 2,698\nUnit costs, fixed bunker (USD per FFE incl . VSA\nEBIT decreased by USD 241m to USD 229m (USD 470m), impacted by the higher depreciation and amortisation\nincome) 2,409 2,367 2,471 2,421 2,412\nlinked to capacity investments to support the volume delivery, as well as the absence of gains on vessel and\nBunker price, average (USD per tonne) 537 636 553 630 613\ncontainer sales recognised in Q2 2024 of USD 202",
+      "chunk_id": 3474
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 9,
+      "text": "ity investments to support the volume delivery, as well as the absence of gains on vessel and\nBunker price, average (USD per tonne) 537 636 553 630 613\ncontainer sales recognised in Q2 2024 of USD 202m.\nBunker consumption (tonne in ’000) 2,727 2,862 5,429 5,658 11,262\nAverage operated fleet capacity (TEU in ’000) 4,587 4,282 4,536 4,235 4,307\nLoaded volumes increased by 4.2% to 3,230k FFE (3,101k FFE), driven by strong performance in Intra-Asia,\nFleet owned (end of period) 318 304 318 304 308\nAfrica, Asia-Europe, Middle East-Europe and Latin America trades. Compared to Q1 2025, loaded volumes\nFleet chartered (end of period) 424 403 424 403 399\nincreased by 10% across all trades.\nThe average loaded freight rate decreased by 9.6% to 2,259 USD/FFE (2,499 USD/FFE) across most trades and\nby 6.9% compared to Q1 2025 (2,427 USD/FFE), following the ongoing and expected market pressure on rates.",
+      "chunk_id": 3475
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 9,
+      "text": "% compared to Q1 2025 (2,427 USD/FFE), following the ongoing and expected market pressure on rates.",
+      "chunk_id": 3476
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 10,
+      "text": "Management Review I Segments I Ocean A.P. Moller - Maersk Interim Report Q2 | 7 August 2025 10\nTotal operating costs increased by USD 181m to USD 7.1bn (USD 7.0bn). The increase was driven by the end of Q2 2025, and the fleet consisted of 318 owned and 424 chartered vessels, of which 151k TEU or 3.3%\nhigher network costs excluding bunker and the higher container handling costs, which increased by 16% of the fleet were idle (20 vessels).\nand 6.6%, respectively; however, the impact was partially offset by a 16% reduction in bunker costs.\nKey initiatives in Q2\nBunker costs decreased by 16% to USD 1.6bn (USD 1.8bn), driven by the lower bunker price by 16% to 537 In February 2025, Maersk launched the Gemini cooperation, a strategic partnership with Hapag Lloyd, aiming\nUSD/tonne (636 USD/tonne), combined with the reduced bunker consumption by 4.7%, despite the volume to provide a more reliable and efficient customer experience, by utilising the East-West network. At the\nincrease. Costs relat",
+      "chunk_id": 3477
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 10,
+      "text": " combined with the reduced bunker consumption by 4.7%, despite the volume to provide a more reliable and efficient customer experience, by utilising the East-West network. At the\nincrease. Costs relating to the EU Emissions Trading System (ETS) were USD 88m (USD 28m). Excluding beginning of June 2025, the Gemini cooperation was fully phased in and is off to a good start. Within its first\nthe EU ETS effect, bunker costs decreased by 20%. Bunker efficiency improved by 5.5% to 36.3 g/TEU*NM months, the Gemini cooperation has consistently exceeded the 90% schedule reliability ambition as measured\n(38.4 g/TEU*NM). by Sea Intelligence.\nQ2 marked a significant milestone in vessel deliveries, with the final two vessels (total of twelve) of the\nUnit cost at fixed bunker increased by 1.8% to 2,409 USD/FFE (2,367 USD/FFE), driven by the increased costs Ane Mærsk class handed over. In addition, Maersk named the first vessel of the 17,480 TEU Berlin Mærsk\nand partly offset by the higher volumes. Co",
+      "chunk_id": 3478
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 10,
+      "text": "SD/FFE (2,367 USD/FFE), driven by the increased costs Ane Mærsk class handed over. In addition, Maersk named the first vessel of the 17,480 TEU Berlin Mærsk\nand partly offset by the higher volumes. Compared to Q1 2025, unit cost at fixed bunker improved by 5.1%, class. All new vessels are equipped with dual-fuel methanol propulsion, showcasing the continuous com-\ndriven by the strong volume growth. mitment to decarbonisation.\nAmid ongoing geopolitical tensions and an uncertain trade environment, Ocean remains committed\nThe average operated capacity of 4,587k TEU (4,282k TEU) increased by 7.1% in line with the increased to delivering strong customer outcomes, while actively exploring opportunities to streamline operations,\ndemand and Gemini phase-in requirements. The current order book for dual-fuel vessels totalled 31 at the mitigate risks and optimise costs.\nFinancial review 6M 2025\nFleet overview, end Q2 2025 Ocean delivered an EBIT of USD 972m (USD 309m) amid a dynamic and uncertain",
+      "chunk_id": 3479
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 10,
+      "text": "dual-fuel vessels totalled 31 at the mitigate risks and optimise costs.\nFinancial review 6M 2025\nFleet overview, end Q2 2025 Ocean delivered an EBIT of USD 972m (USD 309m) amid a dynamic and uncertain environment, due to the\nhigher revenue by USD 1.1bn to USD 17.5bn (USD 16.4bn), driven by an increase in volumes by 2.2%, partly\nQ2 2025 Q4 2024\noffset by 3.9% lower loaded freight rates, following the downward trend in 2025, compared to the upward\nTEU trend in 2024.\nOwn container vessels 2,564 2,440\nChartered container vessels 2,043 1,901 Revenue was positively impacted by the high loaded freight rates at the end of 2024, which benefitted Q1 2025.\nTotal fleet 4,607 4,341\nNumber of vessels EBITDA increased by USD 983m to USD 3.3bn (USD 2.4bn), and the EBITDA margin increased by 4.7 percentage\nOwn container vessels 318 308 points to 19.1% (14.4%).\nChartered container vessels 424 399\nTotal fleet 742 707\nEBIT increased by USD 663m to USD 972m (USD 309m), and the EBIT margin increased by 3.7 ",
+      "chunk_id": 3480
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 10,
+      "text": "\nOwn container vessels 318 308 points to 19.1% (14.4%).\nChartered container vessels 424 399\nTotal fleet 742 707\nEBIT increased by USD 663m to USD 972m (USD 309m), and the EBIT margin increased by 3.7 percentage points\nto 5.6% (1.9%)\nLoaded volumes Average freight rates Total operating costs increased by USD 145m to USD 14.1bn (USD 14.0bn), driven by higher network costs\nFFE (’000) USD/FFE\nexcluding bunker and the higher container handling costs, which increased by 8.2% and 5.2%, respectively;\nQ2 2025 Q2 2024 Change Change % Q2 2025 Q2 2024 Change Change %\nhowever, the increase was mostly offset by the lower bunker cost by 13%, driven by the lower bunker price\nEast-West 1,477 1,417 60 4 .2% East-West 2,286 2,669 -383 -14 .3% by 12%, combined with the reduced bunker consumption by 4.0%, despite the increased volumes.\nNorth-South 1,055 999 56 5 .6% North-South 2,927 3,105 -178 -5 .7%\nIntra-regional 698 685 13 1 .9% Intra-regional 1,520 1,435 85 5 .9% Unit cost at fixed bunker increased by",
+      "chunk_id": 3481
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 10,
+      "text": "ite the increased volumes.\nNorth-South 1,055 999 56 5 .6% North-South 2,927 3,105 -178 -5 .7%\nIntra-regional 698 685 13 1 .9% Intra-regional 1,520 1,435 85 5 .9% Unit cost at fixed bunker increased by 2.1% to 2,471 USD/FFE (2,421 USD/FFE), driven by higher costs at fixed\nTotal 3,230 3,101 129 4.2% Total 2,259 2,499 -240 -9.6%\nbunker, partially offset by the volume growth.",
+      "chunk_id": 3482
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 11,
+      "text": "Management Review I Segments I Logistics & Services A.P. Moller - Maersk Interim Report Q2 | 7 August 2025 11\nLogistics & Services Logistics & Services highlights\nUSD million\nQ2 Q2 6M 6M 12M\nLogistics & Services continued to focus on profitability and finished the second quarter of 2025 by\n2025 2024 2025 2024 2024\nimproving the EBIT margin by 1.3 percentage points year-on-year to 4.8% (3.5%), with an improvement of\nRevenue 3,668 3,632 7,156 7,136 14,920\n0.7 percentage points compared to Q1 2025. Gross profit margin for the quarter also increased to 32.5%\nDirect costs (third-party costs) 2,475 2,543 4,842 5,040 10,385\n(30.0%). The year-on-year margin growth was driven by increased profitability and productivity in multiple\nproducts across ‘by Maersk’ service models through improving the customer offering and the continuation Gross profit 1,193 1,089 2,314 2,096 4,535\nof overall cost control. Direct operating expenses 551 557 1,092 1,092 2,258\nSelling, General & Administration (SG&A) cos",
+      "chunk_id": 3483
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 11,
+      "text": "tomer offering and the continuation Gross profit 1,193 1,089 2,314 2,096 4,535\nof overall cost control. Direct operating expenses 551 557 1,092 1,092 2,258\nSelling, General & Administration (SG&A) costs 223 184 420 390 830\nFinancial and operational performance Profit before depreciation, amortisation and\nimpairment losses, etc. (EBITDA) 419 348 802 614 1,447\nRevenue increased by 1.0% or USD 36m to USD 3.7bn (USD 3.6bn). Managed by Maersk delivered a year-\nEBITDA margin 11 .4% 9 .6% 11 .2% 8 .6% 9 .7%\non-year revenue increase of 6.3%, supported by Transported by Maersk delivering growth of 1.7% year-on-\nyear. Fulfilled by Maersk revenue decreased by 1.7%. Sequentially, revenue improved by 5.2% compared to\nUSD 3.5bn in Q1 2025. Profit before financial items (EBIT) 175 126 317 180 538\nEBIT margin 4 .8% 3 .5% 4 .4% 2 .5% 3 .6%\nManaged by Maersk’s revenue increased by 6.3% or USD 31m to USD 522m (USD 491m), driven by Lead\nLogistics through upselling value-added services. Supply Chain Manage",
+      "chunk_id": 3484
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 11,
+      "text": "rgin 4 .8% 3 .5% 4 .4% 2 .5% 3 .6%\nManaged by Maersk’s revenue increased by 6.3% or USD 31m to USD 522m (USD 491m), driven by Lead\nLogistics through upselling value-added services. Supply Chain Management volumes decreased by Invested capital 11,979 11,534 11,979 11,534 11,631\n8.8% to 26,061k CBM (28,582k CBM), but were offset by higher rates. Revenue decreased by 5.6% compared CAPEX 139 159 236 360 803\nto Q1 2025.\nOperational and financial metrics\nFulfilled by Maersk’s revenue decreased by 1.7% or USD 24m to USD 1.4bn (USD 1.4bn). The profitability\nManaged by Maersk revenue 522 491 1,075 959 2,167\nrefocusing efforts in Middle Mile and Last Mile in North America are progressing, and Warehousing &\nFulfilled by Maersk revenue 1,385 1,409 2,707 2,832 5,735\nE-Fulfilment maintained the momentum year-on-year as a result of new customer wins in 2024, benefitting\nTransported by Maersk revenue 1,761 1,732 3,374 3,345 7,018\n2025. Sequentially, revenue increased by 4.8%, primarily driven by Middl",
+      "chunk_id": 3485
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 11,
+      "text": " year-on-year as a result of new customer wins in 2024, benefitting\nTransported by Maersk revenue 1,761 1,732 3,374 3,345 7,018\n2025. Sequentially, revenue increased by 4.8%, primarily driven by Middle Mile improvements.\nSupply chain management volumes (CBM in ’000) 26,061 28,582 53,813 55,419 120,137\nFirst Mile volumes (FFE in ’000) 1,701 1,672 3,307 3,323 6,773\nTransported by Maersk’s revenue increased by 1.7% or USD 29m to USD 1.8bn (USD 1.7bn), mainly driven\nAir freight volumes (tonne in ’000) 74 84 143 169 327\nby First Mile, supported by higher volumes by 1.7% of 1,701k FFE (1,672k FFE). Compared to Q1 2025, First\nMile volumes increased by 5.9%. Air revenue declined year-on-year due to uncertainties from the macro-\nenvironment and the refocusing efforts to improve operational efficiency and margins. Air freight volumes\ndeclined by 12% to 74k tonnes (84k tonnes). Revenue improved by 9.2% compared to Q1 2025.\nGross profit improved by 9.6% or USD 104m to USD 1.2bn (USD 1.1bn), result",
+      "chunk_id": 3486
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 11,
+      "text": "cy and margins. Air freight volumes\ndeclined by 12% to 74k tonnes (84k tonnes). Revenue improved by 9.2% compared to Q1 2025.\nGross profit improved by 9.6% or USD 104m to USD 1.2bn (USD 1.1bn), resulting in a strong gross profit\nmargin of 32.5% (30.0%) with increases across all service models. Gross profit also increased sequentially\nby 6.4% or USD 72m compared to Q1 2025.\nEBITDA increased by 20% or USD 71m to USD 419m (USD 348m), and the EBITDA margin was 11.4% compared\nto 9.6% in Q2 2024.",
+      "chunk_id": 3487
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 12,
+      "text": "Management Review I Segments I Logistics & Services A.P. Moller - Maersk Interim Report Q2 | 7 August 2025 12\nEBIT increased by 39% or USD 49m to USD 175m (USD 126m), and the EBIT margin increased to 4.8% (3.5%).\nManaged by Maersk’s margins increased, mainly driven by Lead Logistics and Cold Chain Logistics. Fulfilled\nby Maersk’s margins also improved year-on-year, mainly driven by Warehousing & E-Fulfilment and Middle\nMile. Transported by Maersk’s margins improved year-on-year with good profitability progress in First Mile.\nCompared to Q1 2025, EBIT improved by USD 33m, and the EBIT margin improved by 0.7 percentage points.\nKey initiatives in Q2\nLogistics & Services continued executing its operational improvement strategy in Q2 2025, focusing\non targeted turnaround initiatives and cost optimisation. Contract Logistics achieved a sequential EBIT\nimprovement with double- digit revenue growth while implementing facility optimisation programmes to\nreduce operational costs and improve asse",
+      "chunk_id": 3488
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 12,
+      "text": "timisation. Contract Logistics achieved a sequential EBIT\nimprovement with double- digit revenue growth while implementing facility optimisation programmes to\nreduce operational costs and improve asset utilisation.\nAmid challenging market conditions, including tariff impacts and regulatory changes, Logistics & Services\nremains focused on operational efficiency, cost optimisation and delivering sustainable profitability improve-\nments through disciplined execution of controllable initiatives.\nFinancial review 6M 2025\nRevenue increased by USD 20m to USD 7.2bn (USD 7.1bn), driven by Managed by Maersk’s increase by USD 116m\nand offset by a decrease in Fulfilled by Maersk by USD 125m. Transported by Maersk maintained relatively\nsimilar revenue levels as the prior year with growth of 0.9%.\nEBITDA increased by 31% to USD 802m (USD 614m), driven by cost control.\nEBIT increased by 76% to USD 317m (USD 180m), driven by most products and supported by commercial\nprogress and continued cost control",
+      "chunk_id": 3489
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 12,
+      "text": "A increased by 31% to USD 802m (USD 614m), driven by cost control.\nEBIT increased by 76% to USD 317m (USD 180m), driven by most products and supported by commercial\nprogress and continued cost control, resulting in an EBIT margin of 4.4% (2.5%).",
+      "chunk_id": 3490
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 13,
+      "text": "Management Review I Segments I Terminals A.P. Moller - Maersk Interim Report Q2 | 7 August 2025 13\nTerminals Terminals highlights\nUSD million\nQ2 Q2 6M 6M 12M\nQ2 2025 represented another strong quarter, where Terminals delivered record-high volume and revenue.\n2025 2024 2025 2024 2024\nVolume increased by 9.9% with strong demand across the entire portfolio. Accordingly, utilisation\nRevenue 1,307 1,089 2,538 2,088 4,465\nincreased by 9.9 percentage points to 86% (76%) with a number of terminals operating near maximum\nConcession fees (excl . capitalised lease expenses) 106 87 205 170 347\ncapacity. As a result, the EBIT margin improved by 2.9 percentage points to 35.3% (32.4%).\nLabour costs (Blue collar) 387 315 746 609 1,290\nFinancial and operational performance Other operational costs 193 143 379 288 658\nRevenue increased by 20% to USD 1.3bn (USD 1.1bn), driven by higher volume, improved tariffs and higher Selling, General & Administration (SG&A) and other\ncosts, etc . 163 136 306 265 569\n",
+      "chunk_id": 3491
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 13,
+      "text": "379 288 658\nRevenue increased by 20% to USD 1.3bn (USD 1.1bn), driven by higher volume, improved tariffs and higher Selling, General & Administration (SG&A) and other\ncosts, etc . 163 136 306 265 569\nstorage revenue. Volume grew by 9.9% with strong uplift across all regions. Volume from Ocean increased\nTotal operating costs 849 681 1,636 1,332 2,864\nby 29% and volume from external customers increased by 0.9%. The disproportional growth in internal\nProfit before depreciation, amortisation and\nvolume versus external is driven by Ocean’s transition from the old 2M alliance to the new East-West net-\nimpairment losses, etc. (EBITDA) 458 408 902 756 1,601\nwork (Gemini cooperation). Utilisation increased to 86% (76%) due to the increase in volume, with several\nEBITDA margin 35 .0% 37 .5% 35 .5% 36 .2% 35 .9%\nterminals operating close to maximum capacity.\nProfit before financial items (EBIT) 461 353 855 653 1,329\nRevenue per move increased by 8.9% to USD 360 (USD 330), driven by improved tarif",
+      "chunk_id": 3492
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 13,
+      "text": "6 .2% 35 .9%\nterminals operating close to maximum capacity.\nProfit before financial items (EBIT) 461 353 855 653 1,329\nRevenue per move increased by 8.9% to USD 360 (USD 330), driven by improved tariffs, an increase in\nEBIT margin 35 .3% 32 .4% 33 .7% 31 .3% 29 .8%\nstorage revenue and improved terminal mix. Revenue per move (like-for-like) increased by 8.0%, driven by\nimproved tariffs and higher storage revenue. Cost per move increased by 12% to USD 278 (USD 247) due\nto labour inflation, increasing congestion, SG&A and a negative terminal mix impact, partly offset by the Invested capital 9,405 7,887 9,405 7,887 7,930\nimpact of higher utilisation. Cost per move (like-for-like) increased by 8.1% with the impact of significant CAPEX 141 135 267 262 580\nlabour inflation being partly outweighed by the positive impact from higher utilisation. At fixed foreign\nexchange rates, volume mix and portfolio mix, revenue per move improved by 8.0% and cost per move Operational and financial metrics\nin",
+      "chunk_id": 3493
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 13,
+      "text": " by the positive impact from higher utilisation. At fixed foreign\nexchange rates, volume mix and portfolio mix, revenue per move improved by 8.0% and cost per move Operational and financial metrics\nincreased by 8.1%. Volumes – financially consolidated (moves in ’000) 3,584 3,260 6,910 6,328 13,095\nOcean segment 1,348 1,043 2,433 2,028 4,200\nEBITDA increased by 12% to USD 458m (USD 408m) due to improved utilisation and higher storage revenue. External customers 2,236 2,217 4,477 4,300 8,895\nCompared to Q1 2025, EBITDA increased by USD 14m despite a sequential decrease in storage revenue. Revenue per move – financially consolidated (USD) 360 330 362 327 337\nThe EBITDA margin decreased to 35.0% (37.5%) due to the increasing labour cost.\nCost per move – financially consolidated (USD) 278 247 277 250 258\nResult from joint ventures and associated companies 154 82 248 170 327\nEBIT increased by 31% to USD 461m (USD 353m) due to the higher EBITDA and higher results from joint\nventures and assoc",
+      "chunk_id": 3494
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 13,
+      "text": "77 250 258\nResult from joint ventures and associated companies 154 82 248 170 327\nEBIT increased by 31% to USD 461m (USD 353m) due to the higher EBITDA and higher results from joint\nventures and associated companies.\nROIC (LTM average) increased to 15.4% (12.2%). The strong performance has mitigated the adverse impact\nof the around USD 1bn increase in invested capital as a result of the Port Elizabeth concession extension,\nwhich was signed in Q2 2025. As ROIC is calculated as LTM average, the full effect of the extension will\nnot be reflected for another 10 months.",
+      "chunk_id": 3495
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 14,
+      "text": "Management Review I Segments I Terminals A.P. Moller - Maersk Interim Report Q2 | 7 August 2025 14\nCAPEX increased to USD 141m (USD 135m), driven by the construction of the new terminals in Suape, Brazil, Results from joint ventures and associated companies\nand Rijeka, Croatia, and the expansion of the terminal in Lazaro Cardenas, Mexico, offset by lower moderni- The share of profits in joint ventures and associated companies increased by 88% to USD 154m (USD 82m),\nsation costs in the USA. primarily driven by the recognition of a deferred tax asset and strong volume in both West Africa and\nSantos, Brazil.\nIn North America, volume increased by 11%, primarily driven by significant growth in Los Angeles, USA,\nand Lazaro Cardenas, Mexico, partly offset by weaker volume in Port Elizabeth and Mobile, USA. Utilisation Key initiatives in Q2\nincreased by 6.2 percentage points to 82% (76%). In Haiphong, Vietnam, APM Terminals, together with its strategic partner Hateco Group, celebrated the gran",
+      "chunk_id": 3496
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 14,
+      "text": "bile, USA. Utilisation Key initiatives in Q2\nincreased by 6.2 percentage points to 82% (76%). In Haiphong, Vietnam, APM Terminals, together with its strategic partner Hateco Group, celebrated the grand\nopening of the Hateco Haiphong International Container Terminal (HHIT). The terminal, developed through\nIn Latin America, volume increased by 20%, driven by Callao, Peru, Buenos Aires, Argentina, and Pecem, the strategic partnership between Hateco Group and APM Terminals, provides two new deep-water berths\nBrazil. Utilisation increased by 19 percentage points to 96% (77%) with some terminals operating above capable of accommodating vessels of up to 18,000 TEU at Lach Huyen Port in Haiphong City.\ndesign capacity. In Lazaro Cardenas, Mexico, APM Terminals acquired six state-of-the-art electric ARMG cranes. This\nacquisition is part of the terminal’s Phase II expansion, for which APM Terminals has invested USD 165m to\nIn Europe, volume increased by 4.7%, driven by Vado, Italy and Aarhus, Den",
+      "chunk_id": 3497
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 14,
+      "text": " ARMG cranes. This\nacquisition is part of the terminal’s Phase II expansion, for which APM Terminals has invested USD 165m to\nIn Europe, volume increased by 4.7%, driven by Vado, Italy and Aarhus, Denmark. Utilisation increased by date. The expansion includes increasing the terminal area by 65 hectares and doubling its annual capacity to\n6.3 percentage points to 82% (76%). 2.2m TEU, and highlights APM Terminals’ commitment to driving Mexico’s economic growth and transitioning\ntowards more sustainable port operations.\nIn Africa, volume increased by 12%, driven by Apapa and Onne, Nigeria. Utilisation increased by 15 percent-\nage points to 73% (58%). Financial review 6M 2025\nRevenue increased by 22% to USD 2.5bn (USD 2.1bn), driven by a 9.2% increase in volume, improved tariffs\nIn Asia, volume increased by 6.3%, driven by Mumbai, India, and Aqaba, Jordan, which was heavily impacted and higher storage revenue. Capacity utilisation increased to 83% (73%).\nby the Red Sea situation in 2024. U",
+      "chunk_id": 3498
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 14,
+      "text": "e increased by 6.3%, driven by Mumbai, India, and Aqaba, Jordan, which was heavily impacted and higher storage revenue. Capacity utilisation increased to 83% (73%).\nby the Red Sea situation in 2024. Utilisation increased by 9.5 percentage points to 90% (80%).\nRevenue per move increased by 11% to USD 362 (USD 327), mainly driven by improved tariffs, storage revenue\nand improved terminal mix, partially offset by an unfavourable foreign exchange rate impact. Cost per move\nincreased by 10% to USD 277 (USD 250) due to labour inflation, other costs, one-offs and revenue-driven\nRegional volume 1\nMoves (’000)\nconcession fees, partly offset by higher utilisation and positive foreign exchange rate impact.\nQ2 2025 Q2 2024 Growth %\nNorth America 1,018 919 10 .8% EBITDA increased to USD 902m (USD 756m), driven by higher volume and higher storage revenue.\nLatin America 697 580 20 .1%\nEurope 751 717 4 .7% EBIT increased to USD 855m (USD 653m), driven by the higher EBITDA and results from joint ventur",
+      "chunk_id": 3499
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 14,
+      "text": ", driven by higher volume and higher storage revenue.\nLatin America 697 580 20 .1%\nEurope 751 717 4 .7% EBIT increased to USD 855m (USD 653m), driven by the higher EBITDA and results from joint ventures and\nassociated companies due to the recognition of a deferred tax asset.\nAfrica 189 169 11 .7%\nAsia 929 875 6 .3%\nTotal 3,584 3,260 9.9%\n1 Financially consolidated.",
+      "chunk_id": 3500
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 15,
+      "text": "Financials I Interim consolidated financial statements Q2 2025 A.P. Moller - Maersk Interim Report Q2 | 7 August 2025 15\nFinancials\nCondensed income statement Condensed statement of comprehensive income\nQ2 Q2 6M 6M 12M Q2 Q2 6M 6M 12M\nNote 2025 2024 2025 2024 2024 2025 2024 2025 2024 2024\n1 Revenue 13,130 12,771 26,451 25,126 55,482 Profit for the period 639 833 1,846 1,041 6,232\n1 Profit before depreciation, amortisation and\nimpairment losses, etc. (EBITDA) 2,298 2,144 5,008 3,734 12,128\nTranslation from functional currency to\nDepreciation, amortisation and impairment presentation currency 389 -39 566 -285 -447\nlosses, net 1,651 1,481 3,271 2,999 6,220\nReclassified to income statement, gain on sale\nGain on sale of non-current assets, etc ., net 25 208 80 215 222 of non-current assets, etc ., net - 1 - 6 5\nShare of profit in joint ventures and associated Cash flow hedges 134 -19 179 -60 -82\ncompanies 173 92 281 190 369\nTax on other comprehensive income -2 1 7 -3 24\n1 Profit before fina",
+      "chunk_id": 3501
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 15,
+      "text": " ., net - 1 - 6 5\nShare of profit in joint ventures and associated Cash flow hedges 134 -19 179 -60 -82\ncompanies 173 92 281 190 369\nTax on other comprehensive income -2 1 7 -3 24\n1 Profit before financial items (EBIT) 845 963 2,098 1,140 6,499\nShare of other comprehensive income of joint\nFinancial items, net -111 13 66 164 317 ventures and associated companies, net of tax -4 - -4 2 -3\nProfit before tax 734 976 2,164 1,304 6,816 Total items that have been or may be reclassified\nsubsequently to the income statement 517 -56 748 -340 -503\nTax 95 143 318 263 584\nProfit for the period 639 833 1,846 1,041 6,232\nOther equity investments -11 4 -28 3 -60\nActuarial gains/losses on defined benefit plans, etc . -2 - -2 8 19\nOf which:\nTax on other comprehensive income - - 2 - 1\nNon-controlling interests 53 35 98 66 123\nTotal items that will not be reclassified to the\nA.P. Møller - Mærsk A/S’ share 586 798 1,748 975 6,109\nincome statement -13 4 -28 11 -40\nEarnings per share, USD 38 51 113 62 387\nOth",
+      "chunk_id": 3502
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 15,
+      "text": "s 53 35 98 66 123\nTotal items that will not be reclassified to the\nA.P. Møller - Mærsk A/S’ share 586 798 1,748 975 6,109\nincome statement -13 4 -28 11 -40\nEarnings per share, USD 38 51 113 62 387\nOther comprehensive income, net of tax 504 -52 720 -329 -543\nDiluted earnings per share, USD 38 51 112 62 387\nTotal comprehensive income for the period 1,143 781 2,566 712 5,689\nOf which:\nNon-controlling interests 63 55 113 62 112\nA.P. Møller - Mærsk A/S’ share 1,080 726 2,453 650 5,577\nAmounts in USD million",
+      "chunk_id": 3503
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 16,
+      "text": "Financials I Interim consolidated financial statements Q2 2025 A.P. Moller - Maersk Interim Report Q2 | 7 August 2025 16\nCondensed balance sheet at 30 June\n30 June 30 June 31 December 30 June 30 June 31 December\nNote 2025 2024 2024 Note 2025 2024 2024\nIntangible assets 10,512 9,916 9,824 3 Equity attributable to A .P . Møller - Mærsk A/S 55,983 52,079 56,917\nProperty, plant and equipment 29,739 27,130 28,245 Non-controlling interests 1,086 1,047 1,030\nRight-of-use assets 11,928 9,839 10,605 Total equity 57,069 53,126 57,947\n2 Financial non-current assets, etc . 4,660 4,264 4,586 Lease liabilities, non-current 9,728 8,035 8,728\nDeferred tax 426 348 365 Borrowings, non-current 3,861 4,889 4,539\nTotal non-current assets 57,265 51,497 53,625 Other non-current liabilities 2,359 2,561 2,560\nTotal non-current liabilities 15,948 15,485 15,827\nInventories 1,571 1,640 1,601\n2 Receivables, etc . 22,071 19,553 24,313 Lease liabilities, current 2,938 2,564 2,684\nSecurities 749 - 1,580 Borrowings, c",
+      "chunk_id": 3504
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 16,
+      "text": "l non-current liabilities 15,948 15,485 15,827\nInventories 1,571 1,640 1,601\n2 Receivables, etc . 22,071 19,553 24,313 Lease liabilities, current 2,938 2,564 2,684\nSecurities 749 - 1,580 Borrowings, current 1,163 511 526\nCash and bank balances 6,204 8,055 6,575 Other current liabilities 10,742 9,059 10,713\nAssets held for sale - - 3 Total current liabilities 14,843 12,134 13,923\nTotal current assets 30,595 29,248 34,072 Total liabilities 30,791 27,619 29,750\nTotal assets 87,860 80,745 87,697 Total equity and liabilities 87,860 80,745 87,697\nAmounts in USD million",
+      "chunk_id": 3505
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 17,
+      "text": "Financials I Interim consolidated financial statements Q2 2025 A.P. Moller - Maersk Interim Report Q2 | 7 August 2025 17\nCondensed cash flow statement\nQ2 Q2 6M 6M 12M Q2 Q2 6M 6M 12M\n2025 2024 2025 2024 2024 2025 2024 2025 2024 2024\nProfit before financial items 845 963 2,098 1,140 6,499 Cash and cash equivalents\nNon-cash items, etc . 1,545 1,112 3,039 2,618 5,878 Cash and bank balances 6,204 8,055 6,204 8,055 6,575\nChange in working capital -332 -260 -175 -734 -311 Overdrafts 36 53 36 53 32\nCash flow from operating activities before tax 2,058 1,815 4,962 3,024 12,066 Cash and cash equivalents, end of period 6,168 8,002 6,168 8,002 6,543\nTaxes paid -199 -189 -337 -303 -658\nCash flow from operating activities 1,859 1,626 4,625 2,721 11,408 Cash and bank balances include USD 1 .0bn (USD 928m at 31 December 2024) relating to cash and bank balances in\ncountries with exchange control or other restrictions . These funds are not readily available for general use by the parent\nPurchase of inta",
+      "chunk_id": 3506
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 17,
+      "text": " at 31 December 2024) relating to cash and bank balances in\ncountries with exchange control or other restrictions . These funds are not readily available for general use by the parent\nPurchase of intangible assets and property, plant\nand equipment (CAPEX) -1,278 -904 -2,676 -1,610 -4,201 company or other subsidiaries .\nSale of intangible assets and property, plant and\nequipment 57 280 112 324 466\n4 Acquisition of subsidiaries and activities -674 -1 -674 -8 -8\nSale of subsidiaries and activities - 8 - 22 28\nAcquisition of joint ventures and associated\ncompanies -10 - -10 -1 -21\nSale of joint ventures and associated companies - - - 51 51\nDividends received 35 57 72 112 371\nSale of other equity investments - - - - 3\nFinancial investments etc ., net 1,549 -45 3,827 1,186 -4,614\nCash flow from investing activities -321 -605 651 76 -7,925\nRepayment of/proceeds from borrowings, net -531 637 -543 1,730 1,462\nRepayments of lease liabilities -1,014 -742 -1,815 -1,491 -3,051\nFinancial payments, n",
+      "chunk_id": 3507
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 17,
+      "text": "investing activities -321 -605 651 76 -7,925\nRepayment of/proceeds from borrowings, net -531 637 -543 1,730 1,462\nRepayments of lease liabilities -1,014 -742 -1,815 -1,491 -3,051\nFinancial payments, net 149 224 462 473 732\nFinancial expenses paid on lease liabilities -181 -144 -347 -283 -611\nPurchase of treasury shares -514 - -842 -443 -556\nDividends distributed -350 -310 -2,547 -1,333 -1,333\nDividends distributed to non-controlling interests -28 -20 -55 -45 -110\nOther equity transactions -4 -13 7 -34 -33\nCash flow from financing activities -2,473 -368 -5,680 -1,426 -3,500\nNet cash flow for the period -935 653 -404 1,371 -17\nCash and cash equivalents, beginning of period 7,092 7,381 6,543 6,730 6,730\nCurrency translation effect on cash and bank\nbalances 11 -32 29 -99 -170\nCash and cash equivalents, end of period 6,168 8,002 6,168 8,002 6,543\nAmounts in USD million",
+      "chunk_id": 3508
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 17,
+      "text": "ivalents, end of period 6,168 8,002 6,168 8,002 6,543\nAmounts in USD million",
+      "chunk_id": 3509
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 18,
+      "text": "Financials I Interim consolidated financial statements Q2 2025 A.P. Moller - Maersk Interim Report Q2 | 7 August 2025 18\nCondensed statement of changes in equity\nA .P . Møller - Mærsk A/S\nShare Translation Reserve for Reserve Retained Total Non- Total\ncapital reserve other equity for earnings controlling equity\nNote investments hedges interests\nEquity 1 January 2025 2,870 -1,290 126 -79 55,290 56,917 1,030 57,947\nOther comprehensive income, net of tax - 552 -27 185 -5 705 15 720\nProfit for the period - - - - 1,748 1,748 98 1,846\nTotal comprehensive income for the period - 552 -27 185 1,743 2,453 113 2,566\nDividends to shareholders - - - - -2,549 -2,549 -58 -2,607\nValue of share-based payments - - - - 12 12 - 12\nSale of non-controlling interests - - - - - - 1 1\n3 Purchase of treasury shares - - - - -857 -857 - -857\n3 Sale of treasury shares - - - - 7 7 - 7\nTotal transactions with shareholders - - - - -3,387 -3,387 -57 -3,444\nEquity 30 June 2025 2,870 -738 99 106 53,646 55,983 1,086 57,0",
+      "chunk_id": 3510
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 18,
+      "text": " - - - - -857 -857 - -857\n3 Sale of treasury shares - - - - 7 7 - 7\nTotal transactions with shareholders - - - - -3,387 -3,387 -57 -3,444\nEquity 30 June 2025 2,870 -738 99 106 53,646 55,983 1,086 57,069\nEquity 1 January 2024 3,186 -1,148 189 -19 51,822 54,030 1,060 55,090\nOther comprehensive income, net of tax - -211 3 -65 -52 -325 -4 -329\nProfit for the period - - - - 975 975 66 1,041\nTotal comprehensive income for the period - -211 3 -65 923 650 62 712\nDividends to shareholders - - - - -1,191 -1,191 -44 -1,235\nValue of share-based payments - - - - 15 15 - 15\nAcquisition of non-controlling interests - - - - -14 -14 -19 -33\n3 Purchase of treasury shares - - - - -416 -416 - -416\n3 Sale of treasury shares - - - - 5 5 - 5\nCapital increases and decreases -316 - - - 316 - 15 15\nDistribution of shares in Svitzer to shareholders of A .P . Møller - Mærsk A/S - 224 - - -1,216 -992 -27 -1,019\nOther equity movements - - - - −8 −8 - −8\nTotal transactions with shareholders -316 224 - - -2,509 -2,60",
+      "chunk_id": 3511
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 18,
+      "text": "shares in Svitzer to shareholders of A .P . Møller - Mærsk A/S - 224 - - -1,216 -992 -27 -1,019\nOther equity movements - - - - −8 −8 - −8\nTotal transactions with shareholders -316 224 - - -2,509 -2,601 -75 -2,676\nEquity 30 June 2024 2,870 -1,135 192 -84 50,236 52,079 1,047 53,126\nAmounts in USD million",
+      "chunk_id": 3512
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 19,
+      "text": "Financials I Interim consolidated financial statements Q2 2025 A.P. Moller - Maersk Interim Report Q2 | 7 August 2025 19\nNote 1 Segment information\nOcean Logistics Terminals Unallo- Elimina- Consoli- Ocean Logistics Terminals Unallo- Elimina- Consoli-\n& Services cated tions dated & Services cated tions dated\nitems 1 total items 1 total\nQ2 2025 6M 2025\nExternal revenue 8,098 3,798 941 293 - 13,130 External revenue 16,478 7,467 1,902 604 - 26,451\nInter-segment revenue 474 -130 366 78 -788 - Inter-segment revenue 1,004 -311 636 126 -1,455 -\nTotal revenue 8,572 3,668 1,307 371 -788 13,130 Total revenue 17,482 7,156 2,538 730 -1,455 26,451\nProfit before depreciation, amortisation Profit before depreciation, amortisation\nand impairment losses, etc. (EBITDA) 1,443 419 458 -15 -7 2,298 and impairment losses, etc. (EBITDA) 3,346 802 902 -34 -8 5,008\nProfit before financial items (EBIT) 229 175 461 -24 4 845 Profit before financial items (EBIT) 972 317 855 -46 - 2,098\nKey metrics: Key metrics:\nI",
+      "chunk_id": 3513
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 19,
+      "text": "ent losses, etc. (EBITDA) 3,346 802 902 -34 -8 5,008\nProfit before financial items (EBIT) 229 175 461 -24 4 845 Profit before financial items (EBIT) 972 317 855 -46 - 2,098\nKey metrics: Key metrics:\nInvested capital 32,918 11,979 9,405 327 -10 54,619 Invested capital 32,918 11,979 9,405 327 -10 54,619\nCAPEX 964 139 141 25 9 1,278 CAPEX 2,132 236 267 36 5 2,676\nOcean Logistics Terminals Unallo- Elimina- Consoli- Ocean Logistics Terminals Unallo- Elimina- Consoli-\n& Services cated tions dated & Services cated tions dated\nitems 1 total items 1 total\nQ2 2024 6M 2024\nExternal revenue 7,960 3,715 835 261 - 12,771 External revenue 15,543 7,285 1,591 707 - 25,126\nInter-segment revenue 410 -83 254 76 -657 - Inter-segment revenue 836 -149 497 133 -1,317 -\nTotal revenue 8,370 3,632 1,089 337 -657 12,771 Total revenue 16,379 7,136 2,088 840 -1,317 25,126\nProfit before depreciation, amortisation Profit before depreciation, amortisation\nand impairment losses, etc. (EBITDA) 1,407 348 408 -23 4 2,144 ",
+      "chunk_id": 3514
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 19,
+      "text": "771 Total revenue 16,379 7,136 2,088 840 -1,317 25,126\nProfit before depreciation, amortisation Profit before depreciation, amortisation\nand impairment losses, etc. (EBITDA) 1,407 348 408 -23 4 2,144 and impairment losses, etc. (EBITDA) 2,363 614 756 -5 6 3,734\nProfit before financial items (EBIT) 470 126 353 8 6 963 Profit before financial items (EBIT) 309 180 653 -8 6 1,140\nKey metrics: Key metrics:\nInvested capital 29,930 11,534 7,887 226 -14 49,563 Invested capital 29,930 11,534 7,887 226 -14 49,563\nCAPEX 578 159 135 29 3 904 CAPEX 903 360 262 71 14 1,610\n1 Following the demerger of Svitzer in Q2 2024, the Towage & Maritime Services segment is no longer separately reported. The remaining\nbusinesses in Towage & Maritime Services and the contribution from Svitzer until its demerger are reported under Unallocated items.\nAmounts in USD million",
+      "chunk_id": 3515
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 19,
+      "text": "eported under Unallocated items.\nAmounts in USD million",
+      "chunk_id": 3516
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 20,
+      "text": "Financials I Interim consolidated financial statements Q2 2025 A.P. Moller - Maersk Interim Report Q2 | 7 August 2025 20\nNote 1 Segment information – continued Note 2 Term deposits and other receivables\nSegment Types of revenue Q2 Q2 6M 6M 12M\nReceivables, etc. amount to USD 22.1bn (USD 24.3bn at 31 December 2024) and consist primarily of term deposits with\n2025 2024 2025 2024 2024\na maturity of more than three months, amounting to USD 12.9bn (USD 15.9bn at 31 December 2024) and EU allowances\nOcean Freight revenue 7,287 7,279 14,866 13,994 32,684 (EUAs) amounting to USD 151m (USD 163m at 31 December 2024).\nOther revenue, Financial non-current assets, etc. primarily consist of prepayments made for operational activities that will be utilised\nincluding hubs 1,285 1,091 2,616 2,385 4,704 after 12 months of USD 1.6bn (USD 1.9bn at 31 December 2024).\nLogistics & Services Managed by Maersk 522 491 1,075 959 2,167\nFulfilled by Maersk 1,385 1,409 2,707 2,832 5,735\nTransported by Maersk 1,761 1",
+      "chunk_id": 3517
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 20,
+      "text": "r 12 months of USD 1.6bn (USD 1.9bn at 31 December 2024).\nLogistics & Services Managed by Maersk 522 491 1,075 959 2,167\nFulfilled by Maersk 1,385 1,409 2,707 2,832 5,735\nTransported by Maersk 1,761 1,732 3,374 3,345 7,018\nTerminals Terminal services 1,307 1,089 2,538 2,088 4,465\nUnallocated activities and\neliminations Towage1 - 77 - 304 304\nSale of containers and\nspare parts 189 98 362 184 490\nOther shipping activities 22 27 41 54 113\nOther services 129 110 263 254 537\nUnallocated activities\nand eliminations -757 -632 -1,391 -1,273 -2,735\nTotal revenue 13,130 12,771 26,451 25,126 55,482\nTiming of revenue recognition\nRecognised over time 12,240 12,002 24,638 23,515 52,308\nRecognised at a point in time 1,647 1,401 3,204 2,884 5,909\nUnallocated activities and eliminations -757 -632 -1,391 -1,273 -2,735\nTotal revenue 13,130 12,771 26,451 25,126 55,482\n1 Revenue from Svitzer is included in Towage until demerger in Q2 2024.\nAmounts in USD million",
+      "chunk_id": 3518
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 20,
+      "text": ",273 -2,735\nTotal revenue 13,130 12,771 26,451 25,126 55,482\n1 Revenue from Svitzer is included in Towage until demerger in Q2 2024.\nAmounts in USD million",
+      "chunk_id": 3519
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 21,
+      "text": "Financials I Interim consolidated financial statements Q2 2025 A.P. Moller - Maersk Interim Report Q2 | 7 August 2025 21\nNote 3 Share capital\nDevelopment in the number of shares: Development in the holding of treasury shares:\nA-shares of B-shares of Nominal value No . of shares of DKK 1,000 Nominal value DKK million % of share capital\nDKK 1,000 DKK 500 DKK 1,000 DKK 500 DKK million USD million Treasury shares 2025 2024 2025 2024 2025 2024\n1 January 2024 10,106,940 212 7,462,590 158 17,570 3,186 A shares\nConversions 3 -6 18 -36 - - 1 January - 306,636 - 307 0 .00% 1 .75%\nCancellations 350,555 - 1,390,218 - 1,741 316 Additions 73,906 43,919 74 44 0 .47% 0 .25%\n30 June 2024 9,756,388 206 6,072,390 122 15,829 2,870 Cancellations - 350,555 - 351 0 .00% 2 .00%\n30 June 73,906 - 74 - 0.47% 0.00%\n1 January 2025 9,756,388 206 6,072,390 122 15,829 2,870\n30 June 2025 9,756,388 206 6,072,390 122 15,829 2,870 B shares\n1 January 120,307 1,279,120 120 1,279 0 .76% 7 .28%\nAll shares are fully issued an",
+      "chunk_id": 3520
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 21,
+      "text": " January 2025 9,756,388 206 6,072,390 122 15,829 2,870\n30 June 2025 9,756,388 206 6,072,390 122 15,829 2,870 B shares\n1 January 120,307 1,279,120 120 1,279 0 .76% 7 .28%\nAll shares are fully issued and paid up. Additions 418,711 174,723 419 175 2 .64% 1 .03%\nCancellations - 1,390,218 - 1,390 0 .00% 7 .91%\nOne A share of DKK 1,000 holds two votes. B shares have no voting rights.\nDisposals 13,367 10,514 13 11 0 .08% 0 .06%\n30 June 525,651 53,111 526 53 3.32% 0.34%\nThe share buy-back programme is carried out with the purpose to adjust the capital structure of the company. Shares not\nused for hedging purposes for the long-term incentive programmes are to be proposed cancelled at the Annual General\nMeetings.\nThe disposals of treasury shares are related to the share option plan and the restricted shares plan.\nFrom 7 February 2025 to 30 June 2025, A.P. Møller - Mærsk A/S bought back as treasury shares 48,443 B shares with\na nominal value of DKK 48m from A.P. Møller og Hustru Chastine Mc-Kinne",
+      "chunk_id": 3521
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 21,
+      "text": "d shares plan.\nFrom 7 February 2025 to 30 June 2025, A.P. Møller - Mærsk A/S bought back as treasury shares 48,443 B shares with\na nominal value of DKK 48m from A.P. Møller og Hustru Chastine Mc-Kinney Møllers Familiefond, which is considered a\nrelated party.\nThe dividend for 2024 of DKK 1,120 per share of DKK 1,000, a total of DKK 17.4bn, equivalent to USD 2.5bn excluding\ntreasury shares was declared at the Annual General Meeting on 18 March 2025. Of this, USD 2.2bn was paid to shareholders\non 21 March 2025, and withholding tax of USD 350m was paid during Q2 2025. Payment of dividends to shareholders does\nnot trigger taxes for the Group.\nAmounts in USD million",
+      "chunk_id": 3522
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 22,
+      "text": "Financials I Interim consolidated financial statements Q2 2025 A.P. Moller - Maersk Interim Report Q2 | 7 August 2025 22\nNote 4 Acquisitions of subsidiaries Note 6 Accounting policies, judgements and significant estimates\nAcquisitions during 6M 2025 The interim consolidated financial statements have been prepared in accordance with IAS 34 Interim Financial Reporting\nPanama Canal Railway Company (Ocean) as issued by the International Accounting Standards Board (IASB) and adopted by the EU and additional Danish disclosure\nOn 1 April 2025, the Group acquired 100% of the shares in Panama Canal Railway Company (PCRC) from Canadian Pacific requirements for interim financial reporting of listed companies.\nKansas City Limited and the Lanco Group/Mi-Jack. PCRC operates a 76-km single-line railway adjacent to the Panama Canal, The accounting policies, judgements and significant estimates are consistent with those applied in the Annual Report 2024,\nmainly facilitating cargo movement between the A",
+      "chunk_id": 3523
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 22,
+      "text": "djacent to the Panama Canal, The accounting policies, judgements and significant estimates are consistent with those applied in the Annual Report 2024,\nmainly facilitating cargo movement between the Atlantic and Pacific Oceans. The acquisition will allow the Group to offer except for the Amendments to IAS 21 on Lack of exchangeability. In August 2023, the IASB issued amendments to IAS 21 The\na broader range of services related to intermodal container movement to its global shipping customers. The total purchase Effects of Changes in Foreign Exchange Rates, which introduced requirements to assess when a currency is exchangeable into\nprice paid in cash amounts to USD 687m, of which USD 659m relates to intangible assets, primarily concession rights, and another currency and when it is not. The amendments had been adopted by the EU in November 2024. The amendments have\nUSD 13m to assumed cash and bank balances. Other assets acquired include property, plant and equipment, and deposits. had ",
+      "chunk_id": 3524
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 22,
+      "text": "e amendments had been adopted by the EU in November 2024. The amendments have\nUSD 13m to assumed cash and bank balances. Other assets acquired include property, plant and equipment, and deposits. had no material effect on the interim financial statements.\nThe liabilities acquired primarily relate to debt and trade payables.\nFrom the acquisition date to 30 June 2025, PCRC contributed with revenue of USD 17m and an insignificant net profit.\nHad the acquisition occurred on 1 January 2025, the impact on the Group’s revenue would have been USD 30m. The net\nprofit impact to the Group would have been insignificant. Acquisition-related costs of USD 5m have been recognised as\noperating costs in the income statement of the Ocean segment and as cash flow from operating activities in the cash flow\nstatement.\nThe accounting for the business combination is considered provisional as at 30 June 2025, subject to finalisation of the\nvaluation of intangible assets.\nAcquisitions during 6M 2024\nNo material",
+      "chunk_id": 3525
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 22,
+      "text": "tement.\nThe accounting for the business combination is considered provisional as at 30 June 2025, subject to finalisation of the\nvaluation of intangible assets.\nAcquisitions during 6M 2024\nNo material acquisitions took place during 6M 2024.\nNote 5 Commitments\nThe total commitments across segments of USD 7.4bn (USD 8.6bn at 31 December 2024) are related to investments\nin dual- fuel vessels, commitments towards terminal concession grantors and EU allowances (EUAs) future contracts.\nAmounts in USD million",
+      "chunk_id": 3526
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 23,
+      "text": "Management Review I Management’s statement A.P. Moller - Maersk Interim Report Q2 | 7 August 2025 23\nManagement’s statement\nThe Board of Directors and the Executive Board have today discussed and approved the Interim Executive Board Board of Directors\nReport of A.P. Møller - Mærsk A/S for the period 1 January 2025 to 30 June 2025.\nThe Interim Report has not been audited or reviewed by the company’s independent auditors.\nVincent Clerc Robert Mærsk Uggla\nThe Interim Report has been prepared in accordance with IAS 34 Interim Financial Reporting as\nCEO Chair\nadopted by the EU and additional Danish disclosure requirements for interim financial reporting\nof listed companies.\nIn our opinion, the interim consolidated financial statements (pp. 15-22) give a true and fair\nPatrick Jany Marc Engel\nview of A.P. Moller - Maersk’s consolid ated assets, liabilities and financial position at 30 June 2025\nCFO Vice Chair\nand of the results of A.P. Moller - Maersk’s con solidated operations and cash flows",
+      "chunk_id": 3527
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 23,
+      "text": "w of A.P. Moller - Maersk’s consolid ated assets, liabilities and financial position at 30 June 2025\nCFO Vice Chair\nand of the results of A.P. Moller - Maersk’s con solidated operations and cash flows for the period\n1 January 2025 to 30 June 2025.\nFurthermore, in our opinion, the Management Review (pp. 3-14) includes a fair review of the Bernard L. Bot\ndevelopment in A.P. Moller - Maersk’s operations and financial conditions, the results for the\nperiod, cash flows and financial position as well as a description of the most significant risks\nand uncertainty factors that A.P. Moller - Maersk faces, relative to the disclosures in the Marika Fredriksson\nAnnual Report for 2024.\nThomas Lindegaard Madsen\nCopenhagen, 7 August 2025\nAmparo Moraleda\nKasper Rørsted\nAllan Thygesen\nJulija Voitiekute\nXavier Urbain",
+      "chunk_id": 3528
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 23,
+      "text": "ier Urbain",
+      "chunk_id": 3529
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 24,
+      "text": "Management Review I Quarterly summary A.P. Moller - Maersk Interim Report Q2 | 7 August 2025 24\nQuarterly summary\n2025 2024 2025 2024\nIncome statement Q2 Q1 Q4 Q3 Q2 Q1 Financial ratios Q2 Q1 Q4 Q3 Q2 Q1\nRevenue 13,130 13,321 14,594 15,762 12,771 12,355 Revenue growth 2 .8% 7 .8% 24 .3% 30 .0% −1 .7% −13 .0%\nProfit before depreciation, amortisation and EBITDA margin 17 .5% 20 .3% 24 .6% 30 .4% 16 .8% 12 .9%\nimpairment losses, etc . (EBITDA) 2,298 2,710 3,597 4,797 2,144 1,590\nEBIT margin 6 .4% 9 .4% 14 .0% 21 .0% 7 .5% 1 .4%\nDepreciation, amortisation and impairment\nCash conversion 81% 102% 123% 89% 76% 69%\nlosses, net 1,651 1,620 1,651 1,570 1,481 1,518\nReturn on invested capital after tax (ROIC)\nGain/loss on sale of non-current assets,\n(last 12 months) 13 .7% 14 .3% 12 .3% 7 .4% 2 .0% 3 .2%\netc ., net 25 55 -9 16 208 7\nEquity ratio 65 .0% 64 .9% 66 .1% 66 .5% 65 .8% 65 .4%\nShare of profit in joint ventures and\nassociated companies 173 108 113 66 92 98 Underlying ROIC1 (last 12 months",
+      "chunk_id": 3530
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 24,
+      "text": ".2%\netc ., net 25 55 -9 16 208 7\nEquity ratio 65 .0% 64 .9% 66 .1% 66 .5% 65 .8% 65 .4%\nShare of profit in joint ventures and\nassociated companies 173 108 113 66 92 98 Underlying ROIC1 (last 12 months) 13 .7% 13 .9% 12 .0% 7 .0% 1 .5% 2 .8%\nProfit before financial items (EBIT) 845 1,253 2,050 3,309 963 177 Underlying EBITDA1 2,298 2,710 3,595 4,798 2,143 1,597\nFinancial items, net -111 177 204 -51 13 151 Underlying EBITDA margin1 17 .5% 20 .3% 24 .6% 30 .4% 16 .8% 12 .9%\nProfit before tax 734 1,430 2,254 3,258 976 328 Underlying EBIT1 818 1,199 2,104 3,322 756 174\nTax 95 223 144 177 143 120 Underlying EBIT margin1 6 .2% 9 .0% 14 .4% 21 .1% 5 .9% 1 .4%\nProfit for the period 639 1,207 2,110 3,081 833 208\nA .P . Møller - Mærsk A/S’ share 586 1,162 2,085 3,049 798 177 Stock market ratios\nEarnings per share, USD 38 74 133 193 51 11\nUnderlying profit1 614 1,152 2,165 3,097 623 210\nDiluted earnings per share, USD 38 74 132 193 51 11\nCash flow from operating activities\nBalance sheet per share,",
+      "chunk_id": 3531
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 24,
+      "text": "ngs per share, USD 38 74 133 193 51 11\nUnderlying profit1 614 1,152 2,165 3,097 623 210\nDiluted earnings per share, USD 38 74 132 193 51 11\nCash flow from operating activities\nBalance sheet per share, USD 121 177 280 271 103 69\nShare price (B share), end of period, DKK 11,775 11,985 11,905 11,260 12,105 8,994\nTotal assets 87,860 86,965 87,697 84,942 80,745 81,598\nShare price (B share), end of period, USD 1,850 1,733 1,668 1,691 1,736 1,305\nTotal equity 57,069 56,455 57,947 56,497 53,126 53,373\nTotal market capitalisation, end of period, USD 28,068 26,638 25,698 26,027 26,992 20,349\nInvested capital 54,619 51,591 50,564 50,846 49,563 50,430\nNet interest-bearing debt -2,454 -5,206 -7,373 -5,634 -3,563 -3,092 1 For definition of terms, see page 25.\nCash flow statement\nCash flow from operating activities 1,859 2,766 4,415 4,272 1,626 1,095\nRepayments of lease liabilities -1,014 -801 -784 -776 -742 -749\nCAPEX -1,278 -1,398 -1,650 -941 -904 -706\nCash flow from financing activities -2,473 -3,",
+      "chunk_id": 3532
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 24,
+      "text": " activities 1,859 2,766 4,415 4,272 1,626 1,095\nRepayments of lease liabilities -1,014 -801 -784 -776 -742 -749\nCAPEX -1,278 -1,398 -1,650 -941 -904 -706\nCash flow from financing activities -2,473 -3,207 -1,043 -1,031 -368 -1,058\nFree cash flow -373 806 2,163 2,705 397 -151\nAmounts in USD million",
+      "chunk_id": 3533
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 25,
+      "text": "Management Review I Definition of terms A.P. Moller - Maersk Interim Report Q2 | 7 August 2025 25\nDefinition of terms\nTechnical terms, abbreviations and definitions of key figures and financial ratios.\nA D FFE L T The adjust ments are net of tax and\nForty Foot container Equivalent unit. include Maersk’s share of mentioned\nA.P. Moller - Maersk (Maersk) Dual-fuel vessel Loaded freight rate (Ocean) TEU items in joint ventures and associated\nA.P. Moller - Maersk or Maersk is A dual-fuel vessel is a ship equipped with Free cash flow (FCF) Average freight rate per FFE for all the Twenty-foot container Equivalent companies.\nreferred to as the consoli dated group of engines capable of operating on both Cash flow from operating activities, Maersk containers loaded in the period Unit.\ncompanies and A.P. Møller - Mærsk A/S conventional fuels (e.g. marine diesel or purchase/sale of intangible assets and in either Maersk Line vessels or third Underlying ROIC\nas the parent company. heavy fuel oil) a",
+      "chunk_id": 3534
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 25,
+      "text": "A.P. Møller - Mærsk A/S conventional fuels (e.g. marine diesel or purchase/sale of intangible assets and in either Maersk Line vessels or third Underlying ROIC\nas the parent company. heavy fuel oil) and a type of green fuel as property, plant and equip ment, dividends parties (excluding intermodal). Time charter Underlying profit/loss before financial\nan alternative fuel (e.g. green methanol received, repayments of lease liabilities, Hire of a vessel for a specified period. items for the year (EBIT) less tax on EBIT\nor liquefied biomethane). financial payments and financial expenses Loaded volumes (Ocean) divided by the average invested capital,\nC paid on lease liabilities. Loaded volumes refer to the number Total market capitalisation last twelve months.\nDual-fuel methanol vessel/ methanol- of FFEs loaded on a shipment which is Total number of shares – excluding\nCAPEX capable vessel loaded on first load at vessel departure A.P. Møller - Mærsk A/S’ holding of Unit cost, fixed bunker\nCa",
+      "chunk_id": 3535
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 25,
+      "text": "l- of FFEs loaded on a shipment which is Total number of shares – excluding\nCAPEX capable vessel loaded on first load at vessel departure A.P. Møller - Mærsk A/S’ holding of Unit cost, fixed bunker\nCash payments for intangible assets Refers to a vessel equipped with G time excluding displaced FFEs. treasury shares – multiplied by the (USD per FFE incl. VSA income) (Ocean)\nand property, plant and equipment, engines capable of running on both end-of-year price quoted by Nasdaq Cost per FFE assuming a bunker price of\nexcluding acquisitions and divestments. conventional fuels (e.g. marine diesel Green fuels Copenhagen. USD 550/tonne excluding intermodal\nor heavy fuel oil) and methanol as an Refers to fuels with low to very low green- N but including hubs and time charter\nCash conversion alternative fuel. house (GHG) gas emissions over their life- income. Hamburg Süd is not excluding\nCash flow from operating activities cycle compared to fossil reference fuels. Net interest-bearing debt (NIB",
+      "chunk_id": 3536
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 25,
+      "text": "ative fuel. house (GHG) gas emissions over their life- income. Hamburg Süd is not excluding\nCash flow from operating activities cycle compared to fossil reference fuels. Net interest-bearing debt (NIBD) U intermodal.\nto EBITDA. Different green fuels achieve different Equals interest-bearing debt, including\nE lifecycle reductions depending on their lease liabilities, fair value of derivatives Underlying EBITDA\nCash flow, operating activities production pathway. ‘Low’ refers to fuels hedging the under lying debt, less cash Underlying EBITDA is earnings V\nper share EBIT with a lifec ycle GHG reduction of 60-80% and bank balances as well as other before interest, taxes, depre ciation\nMaersk’s operating cash flow from Earnings Before Interest and Taxes. compared to fossil fuels and ‘very low’ interest-bearing assets. and amor tisation adjusted for VSA\ncontinuing operations divided by the refers to fuels with a lifecycle GHG reduc- re structuring and integration costs. A vessel sharing agree",
+      "chunk_id": 3537
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 25,
+      "text": "nterest-bearing assets. and amor tisation adjusted for VSA\ncontinuing operations divided by the refers to fuels with a lifecycle GHG reduc- re structuring and integration costs. A vessel sharing agreement is usually\nnumber of shares of DKK 1,000 each, EBITDA tion of 80-95% compared to fossil fuels. reached between various partners within\nexcluding Maersk’s holding of treas- Earnings Before Interest, Taxes, R Underlying EBIT a ship ping consortium who agree to\nury shares. Depreciation and Amortisation. Gross profit Underlying EBIT is operating profit operate a liner service along a specified\nThe sum of revenue, less variable costs Return on invested capital after tax before interest and taxes adjusted route using a specified number of vessels.\nCBM Equity ratio and loss on debtors. (ROIC) for restructuring and integration\nCubic metre, the freight volume of Calculated as equity divided by total Profit/loss before financial items for costs, net gains/losses from sale\nthe shipment for domes",
+      "chunk_id": 3538
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 25,
+      "text": "r restructuring and integration\nCubic metre, the freight volume of Calculated as equity divided by total Profit/loss before financial items for costs, net gains/losses from sale\nthe shipment for domestic and inter- assets. the year (EBIT) less tax on EBIT divided of non-current assets and net\nnational freight. It’s calculated by I by the average invested capital, last impairment losses.\nmultiplying the width, height and twelve months.\nlength of the shipment. F Invested capital Underlying profit/loss\nSegment operating assets less segment Revenue per move (Terminals) Underlying profit/loss is profit/loss for\nCost per move First Mile volumes (FFE in ‘000) operating liabilities, including invest- Includes terminal revenue excluding the year from continuing operations\n(Terminals) (Logistics & Services) ments and deferred taxes related to the IFRIC 12 construction revenue, divided adjusted for net gains/losses from sale\nIncludes cost (EBITDA less revenue Previously known as intermodal volume",
+      "chunk_id": 3539
+    },
+    {
+      "doc_id": "0e18f247-a0e3-4d47-9445-2ae18b6141e7",
+      "page": 25,
+      "text": "ervices) ments and deferred taxes related to the IFRIC 12 construction revenue, divided adjusted for net gains/losses from sale\nIncludes cost (EBITDA less revenue Previously known as intermodal volumes operation. by quay lifting moves. of non- current assets, etc., and net\nless other income), depreciation and includes intermodal, barge, rail and truck- impairment losses as well as trans-\nexcludes IFRIC12 construction cost, ing drayage moves from manufacturing IAS action, restructuring and inte gration\ndivided by quay lifting moves. to port and port to warehouse. International Accounting Standards. costs related to major transa ctions.",
+      "chunk_id": 3540
     }
   ]
 }

@@ -313,7 +313,7 @@ export default function ChatInterface() {
                     ))}
 
                     {isTyping && (
-                        <div style={{ fontStyle: "italic", color: "#666" }}>Bot is typing...</div>
+                        <div style={{ fontStyle: "italic", color: "#666" }}>Generating response...</div>
                     )}
 
                     <div ref={chatEndRef} />

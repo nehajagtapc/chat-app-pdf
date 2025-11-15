@@ -152,6 +152,15 @@ Frontend runs on:
 - Support more formats (DOCX, PPTX, images, scanned PDFs with OCR)
 - Deploy full app on cloud platforms (AWS/GCP/Vercel)
 
+## Future Deployment Improvements
+
+- Dockerize frontend & backend for portable, consistent deployment.
+- Push Docker images to AWS ECR for secure image storage.
+- Deploy on EC2 by pulling images from ECR.
+- Use Nginx reverse proxy for routing traffic.
+- Add CI/CD pipelines using GitHub Actions or AWS CodePipeline.
+- Use AWS Secrets Manager for secure environment variables.
+.
 ## Author
 **Neha Jagtap**
 - Full Stack Developer | AI Integration | Cloud Enthusiast

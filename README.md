@@ -1,4 +1,10 @@
 # Chat-App-PDF — AI-Powered PDF Chat Application
+
+## Video Recording:
+- End-to-end demo: https://drive.google.com/file/d/1BqSwVX29C348t6CRkl7v_PIB4_wBu_gh/view?usp=sharing
+- Implementation: https://drive.google.com/file/d/1CvB1Ky2Qhy01ciiKblOCf2r5TgxzsMQt/view?usp=sharing
+- Voice functionality: https://drive.google.com/file/d/1IjoI0Ag0oKFASSQ2OCFXmRq9CQ9PO_Wl/view?usp=sharing
+  
 ## Overview: 
 Chat-App-PDF is an AI-driven web application that allows users to upload PDF documents and interact with them through a smart chat interface.
 Once a PDF is uploaded, the system extracts its content and processes it using Gemini 2.5 Pro along with other supported Gemini models, enabling intelligent, context-aware responses, summaries, and document insights.

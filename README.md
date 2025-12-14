@@ -15,7 +15,7 @@ Once a PDF is uploaded, the system extracts its content and processes it using G
 
 # Tech Stack:
 ## Frontend
-- React.js – Core framework for building the interactive user interface.
+- React.js – Core framework for building the interactive user interface ui.
 - React-PDF – Component to render PDF documents directly in the browser.
 - Axios – For HTTP requests to the backend API.
 - CSS / Material UI / Tailwind – Styling and responsive design for modern UI.
